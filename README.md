@@ -1,0 +1,1 @@
+I could not finish my documentation on time, there is currently mostly finished documentation in raw_data_collection notebook and data_processing notebook. The rest of the documentation is there in the other notebooks but it is lacking. Some of the data namely: pokemon.json and pokemon_raw.json is not available because they are too big for github I will find a work around
