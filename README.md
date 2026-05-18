@@ -219,3 +219,6 @@ Instead of feature engineering an embedding approach could be considered to capt
 
 
 In this study I focused on the current snapshot of the generation 9 metagames, but Pokémon is a 30 year old franchise. Instead of focusing on a snapshot a temporal appraoch could be used to teach a model the evolution of different metagames throughout the franchises lifespan in hopes of identifying trends within the progression of metagames. 
+
+## Setup and Reproducibility
+The project was developed on google collab using google drive, currently to reproduce the results you can clone the repository and then upload all notebooks in /notebooks to a newly created folder in your google drive called DSA210-Project and create a subfolder called data which has another subfolder called raw. Upload all JSONs that are in raw but do not have raw in their name in your local clone of the repository to your drive under the subfolder raw. Then you can run the notebooks in the following order: raw_data_collection_from_API, data_processing, data_visualization, hypothesis_testing, data_prep_and_feature_engineering and machine_learning_model. This should reproduce my results. I realize this isn't a great way to reproduce the results, I will be adding a proper method after I configured the project to run on my local instead of collab.
