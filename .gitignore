@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints (since you used Colab)
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
