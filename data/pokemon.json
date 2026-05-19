@@ -110846,7 +110846,7 @@
         "is_baby": false,
         "is_legendary": false,
         "is_mythical": false,
-        "gender_rate": -1
+        "gender_rate": 4
     },
     "poltchageist": {
         "abilities": [
@@ -111140,7 +111140,7 @@
         "is_baby": false,
         "is_legendary": true,
         "is_mythical": false,
-        "gender_rate": -1
+        "gender_rate": 0
     },
     "munkidori": {
         "abilities": [
@@ -111237,7 +111237,7 @@
         "is_baby": false,
         "is_legendary": true,
         "is_mythical": false,
-        "gender_rate": -1
+        "gender_rate": 0
     },
     "fezandipiti": {
         "abilities": [
@@ -111334,7 +111334,7 @@
         "is_baby": false,
         "is_legendary": true,
         "is_mythical": false,
-        "gender_rate": -1
+        "gender_rate": 0
     },
     "ogerpon": {
         "abilities": [
@@ -111416,7 +111416,7 @@
         "is_baby": false,
         "is_legendary": true,
         "is_mythical": false,
-        "gender_rate": -1
+        "gender_rate": 8
     },
     "archaludon": {
         "abilities": [
@@ -112070,7 +112070,7 @@
         "is_baby": false,
         "is_legendary": true,
         "is_mythical": false,
-        "gender_rate": -1
+        "gender_rate": 4
     },
     "pecharunt": {
         "abilities": [
@@ -117819,6 +117819,99 @@
         "is_legendary": false,
         "is_mythical": false,
         "gender_rate": 4
+    },
+    "floette-eternal": {
+        "abilities": [
+            {
+                "ability": {
+                    "name": "flower-veil",
+                    "url": "https://pokeapi.co/api/v2/ability/166/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            },
+            {
+                "ability": {
+                    "name": "symbiosis",
+                    "url": "https://pokeapi.co/api/v2/ability/180/"
+                },
+                "is_hidden": true,
+                "slot": 3
+            }
+        ],
+        "is_default": false,
+        "order": 803,
+        "past_abilities": [],
+        "past_stats": [],
+        "past_types": [],
+        "stats": [
+            {
+                "base_stat": 74,
+                "effort": 0,
+                "stat": {
+                    "name": "hp",
+                    "url": "https://pokeapi.co/api/v2/stat/1/"
+                }
+            },
+            {
+                "base_stat": 65,
+                "effort": 0,
+                "stat": {
+                    "name": "attack",
+                    "url": "https://pokeapi.co/api/v2/stat/2/"
+                }
+            },
+            {
+                "base_stat": 67,
+                "effort": 0,
+                "stat": {
+                    "name": "defense",
+                    "url": "https://pokeapi.co/api/v2/stat/3/"
+                }
+            },
+            {
+                "base_stat": 125,
+                "effort": 0,
+                "stat": {
+                    "name": "special-attack",
+                    "url": "https://pokeapi.co/api/v2/stat/4/"
+                }
+            },
+            {
+                "base_stat": 128,
+                "effort": 2,
+                "stat": {
+                    "name": "special-defense",
+                    "url": "https://pokeapi.co/api/v2/stat/5/"
+                }
+            },
+            {
+                "base_stat": 92,
+                "effort": 0,
+                "stat": {
+                    "name": "speed",
+                    "url": "https://pokeapi.co/api/v2/stat/6/"
+                }
+            }
+        ],
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fairy",
+                    "url": "https://pokeapi.co/api/v2/type/18/"
+                }
+            }
+        ],
+        "evolves_from_species": {
+            "name": "flabebe",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/669/"
+        },
+        "generation": 6,
+        "is_baby": false,
+        "is_legendary": false,
+        "is_mythical": false,
+        "gender_rate": 8
     },
     "latias-mega": {
         "abilities": [
@@ -132468,7 +132561,7 @@
         "is_baby": false,
         "is_legendary": true,
         "is_mythical": false,
-        "gender_rate": -1
+        "gender_rate": 8
     },
     "ogerpon-hearthflame-mask": {
         "abilities": [
@@ -132557,7 +132650,7 @@
         "is_baby": false,
         "is_legendary": true,
         "is_mythical": false,
-        "gender_rate": -1
+        "gender_rate": 8
     },
     "ogerpon-cornerstone-mask": {
         "abilities": [
@@ -132646,7 +132739,7 @@
         "is_baby": false,
         "is_legendary": true,
         "is_mythical": false,
-        "gender_rate": -1
+        "gender_rate": 8
     },
     "terapagos-terastal": {
         "abilities": [
@@ -132728,7 +132821,7 @@
         "is_baby": false,
         "is_legendary": true,
         "is_mythical": false,
-        "gender_rate": -1
+        "gender_rate": 4
     },
     "terapagos-stellar": {
         "abilities": [
@@ -132810,10 +132903,19 @@
         "is_baby": false,
         "is_legendary": true,
         "is_mythical": false,
-        "gender_rate": -1
+        "gender_rate": 4
     },
     "clefable-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "magic-bounce",
+                    "url": "https://pokeapi.co/api/v2/ability/156/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -132896,7 +132998,16 @@
         "gender_rate": 6
     },
     "victreebel-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "innards-out",
+                    "url": "https://pokeapi.co/api/v2/ability/215/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -132979,7 +133090,16 @@
         "gender_rate": 4
     },
     "starmie-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "huge-power",
+                    "url": "https://pokeapi.co/api/v2/ability/37/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -133062,7 +133182,16 @@
         "gender_rate": -1
     },
     "dragonite-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "multiscale",
+                    "url": "https://pokeapi.co/api/v2/ability/136/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -133145,7 +133274,16 @@
         "gender_rate": 4
     },
     "meganium-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "mega-sol",
+                    "url": "https://pokeapi.co/api/v2/ability/310/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -133228,7 +133366,16 @@
         "gender_rate": 1
     },
     "feraligatr-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "dragonize",
+                    "url": "https://pokeapi.co/api/v2/ability/309/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -133311,7 +133458,16 @@
         "gender_rate": 1
     },
     "skarmory-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "stalwart",
+                    "url": "https://pokeapi.co/api/v2/ability/242/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -133391,7 +133547,16 @@
         "gender_rate": 4
     },
     "froslass-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "snow-warning",
+                    "url": "https://pokeapi.co/api/v2/ability/117/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -133474,7 +133639,16 @@
         "gender_rate": 8
     },
     "emboar-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "mold-breaker",
+                    "url": "https://pokeapi.co/api/v2/ability/104/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -133557,7 +133731,16 @@
         "gender_rate": 1
     },
     "excadrill-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "piercing-drill",
+                    "url": "https://pokeapi.co/api/v2/ability/308/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -133882,7 +134065,16 @@
         "gender_rate": 4
     },
     "chandelure-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "infiltrator",
+                    "url": "https://pokeapi.co/api/v2/ability/151/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -133965,7 +134157,16 @@
         "gender_rate": 4
     },
     "chesnaught-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "bulletproof",
+                    "url": "https://pokeapi.co/api/v2/ability/171/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -134048,7 +134249,16 @@
         "gender_rate": 1
     },
     "delphox-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "levitate",
+                    "url": "https://pokeapi.co/api/v2/ability/26/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -134131,7 +134341,16 @@
         "gender_rate": 1
     },
     "greninja-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "protean",
+                    "url": "https://pokeapi.co/api/v2/ability/168/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -134295,6 +134514,91 @@
         "is_legendary": false,
         "is_mythical": false,
         "gender_rate": 7
+    },
+    "floette-mega": {
+        "abilities": [
+            {
+                "ability": {
+                    "name": "fairy-aura",
+                    "url": "https://pokeapi.co/api/v2/ability/187/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
+        "is_default": false,
+        "order": -1,
+        "past_abilities": [],
+        "past_stats": [],
+        "past_types": [],
+        "stats": [
+            {
+                "base_stat": 74,
+                "effort": 0,
+                "stat": {
+                    "name": "hp",
+                    "url": "https://pokeapi.co/api/v2/stat/1/"
+                }
+            },
+            {
+                "base_stat": 85,
+                "effort": 0,
+                "stat": {
+                    "name": "attack",
+                    "url": "https://pokeapi.co/api/v2/stat/2/"
+                }
+            },
+            {
+                "base_stat": 87,
+                "effort": 0,
+                "stat": {
+                    "name": "defense",
+                    "url": "https://pokeapi.co/api/v2/stat/3/"
+                }
+            },
+            {
+                "base_stat": 155,
+                "effort": 0,
+                "stat": {
+                    "name": "special-attack",
+                    "url": "https://pokeapi.co/api/v2/stat/4/"
+                }
+            },
+            {
+                "base_stat": 148,
+                "effort": 0,
+                "stat": {
+                    "name": "special-defense",
+                    "url": "https://pokeapi.co/api/v2/stat/5/"
+                }
+            },
+            {
+                "base_stat": 102,
+                "effort": 0,
+                "stat": {
+                    "name": "speed",
+                    "url": "https://pokeapi.co/api/v2/stat/6/"
+                }
+            }
+        ],
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fairy",
+                    "url": "https://pokeapi.co/api/v2/type/18/"
+                }
+            }
+        ],
+        "evolves_from_species": {
+            "name": "flabebe",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/669/"
+        },
+        "generation": 9,
+        "is_baby": false,
+        "is_legendary": false,
+        "is_mythical": false,
+        "gender_rate": 8
     },
     "malamar-mega": {
         "abilities": [],
@@ -134546,7 +134850,16 @@
         "gender_rate": 4
     },
     "hawlucha-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "no-guard",
+                    "url": "https://pokeapi.co/api/v2/ability/99/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -134706,7 +135019,16 @@
         "gender_rate": -1
     },
     "drampa-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "berserk",
+                    "url": "https://pokeapi.co/api/v2/ability/201/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -135011,7 +135333,16 @@
         "gender_rate": 4
     },
     "chimecho-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "levitate",
+                    "url": "https://pokeapi.co/api/v2/ability/26/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -135569,7 +135900,16 @@
         "gender_rate": -1
     },
     "golurk-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "unseen-fist",
+                    "url": "https://pokeapi.co/api/v2/ability/260/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -135652,7 +135992,16 @@
         "gender_rate": -1
     },
     "meowstic-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "trace",
+                    "url": "https://pokeapi.co/api/v2/ability/36/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -135728,7 +136077,16 @@
         "gender_rate": 4
     },
     "crabominable-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "iron-fist",
+                    "url": "https://pokeapi.co/api/v2/ability/89/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -136047,7 +136405,16 @@
         "gender_rate": -1
     },
     "scovillain-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "spicy-spray",
+                    "url": "https://pokeapi.co/api/v2/ability/311/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],
@@ -136130,7 +136497,16 @@
         "gender_rate": 4
     },
     "glimmora-mega": {
-        "abilities": [],
+        "abilities": [
+            {
+                "ability": {
+                    "name": "adaptability",
+                    "url": "https://pokeapi.co/api/v2/ability/91/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            }
+        ],
         "is_default": false,
         "order": -1,
         "past_abilities": [],

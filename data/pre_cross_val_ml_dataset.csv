@@ -1,466 +1,466 @@
-Pokemon,Ability_1,Ability_2,Ability_3,Hazard,Pivot,Setup,Recovery,Utility,Priority,TypeDefScore,TypeOffScore,HP,Atk,Def,SpA,SpD,CoverageScore,SpeedTier,Tier
-koraidon,Orichalcum Pulse,,,0,1,1,0,0,0,4.0,15.5,100,135,115,85,100,2,1,Ubers
-zacian-crowned,Intrepid Sword,,,0,0,1,0,0,0,36.5,13.0,92,150,115,80,115,5,1,Ubers
-kyogre,Drizzle,,,0,0,1,0,1,0,12.0,6.0,100,100,90,150,140,3,3,Ubers
-arceus,Multitype,,,0,0,1,1,1,1,11.0,-0.5,120,120,120,120,120,3,2,Ubers
-ho-oh,Regenerator,Pressure,,0,0,0,1,1,0,16.0,14.0,106,130,90,110,154,1,3,Ubers
-necrozma-dusk,Prism Armor,,,0,0,1,1,1,0,24.0,14.0,97,157,127,113,109,2,3,Ubers
-eternatus,Pressure,,,1,0,1,1,1,0,13.5,11.0,140,85,95,145,95,2,2,Ubers
-lunala,Shadow Shield,,,0,0,1,1,0,0,8.0,12.5,137,113,89,137,107,3,3,Ubers
-calyrex-ice,As One (Glastrier),,,0,0,1,0,1,0,-7.0,15.5,100,165,150,85,130,4,4,Ubers
-flutter-mane,Protosynthesis,,,0,0,1,0,1,0,22.0,16.5,55,55,55,135,135,5,1,Ubers
-arceus-ground,Multitype,,,1,0,1,1,1,1,9.0,7.0,120,120,120,120,120,3,2,Ubers
-arceus-fairy,Multitype,,,1,0,1,1,1,0,15.0,6.0,120,120,120,120,120,2,2,Ubers
-giratina-origin,Levitate,,,0,0,0,0,1,1,17.5,13.5,150,120,100,120,100,0,3,Ubers
-deoxys-attack,Pressure,,,1,0,1,0,1,1,3.5,2.5,50,180,20,180,20,5,1,Ubers
-terapagos,Tera Shift,,,1,0,1,0,1,0,11.0,-0.5,90,65,85,65,85,3,4,Ubers
-kyurem-black,Teravolt,,,0,0,1,0,0,0,-1.0,12.5,125,170,100,120,90,3,3,Ubers
-groudon,Drought,,,1,0,1,0,1,0,9.0,7.0,100,150,140,100,90,2,3,Ubers
-arceus-water,Multitype,,,1,0,1,1,1,0,12.0,6.0,120,120,120,120,120,4,2,Ubers
-regieleki,Transistor,,,0,1,0,0,1,1,13.0,0.0,80,100,50,100,50,1,1,Ubers
-chien-pao,Sword of Ruin,,,0,0,1,0,0,1,-4.0,18.0,80,120,80,90,65,3,1,Ubers
-chi-yu,Beads of Ruin,,,0,0,1,0,1,0,15.5,18.0,55,80,80,135,120,2,3,Ubers
-rayquaza,Air Lock,,,0,0,1,0,0,1,9.0,12.5,105,150,90,150,90,2,3,Ubers
-arceus-ghost,Multitype,,,0,0,1,1,1,1,18.0,5.0,120,120,120,120,120,3,2,Ubers
-annihilape,Defiant,Vital Spirit,Inner Focus,0,1,1,0,1,0,14.5,19.5,110,115,80,50,90,3,3,Ubers
-sneasler,Unburden,Poison Touch,Pressure,0,0,1,0,0,0,9.5,14.5,80,130,60,40,80,4,2,Ubers
-giratina-altered,Pressure,Telepathy,,0,0,0,0,1,1,17.5,13.5,150,100,120,100,120,0,3,Ubers
-lugia,Multiscale,Pressure,,0,0,1,1,1,0,5.5,12.5,106,90,130,90,154,3,2,Ubers
-mewtwo,Pressure,Unnerve,,0,0,1,0,1,0,3.5,2.5,106,110,90,154,90,6,2,Ubers
-magearna,Soul-Heart,,,0,1,1,0,0,0,36.5,13.0,80,95,115,130,115,2,3,Ubers
-archaludon,Stamina,Sturdy,Stalwart,1,0,1,0,1,0,31.0,12.5,90,105,130,125,65,2,3,Ubers
-kyurem-white,Turboblaze,,,0,0,1,0,0,0,-1.0,12.5,125,120,90,170,100,4,3,Ubers
-urshifu-rapid-strike,Unseen Fist,,,0,1,1,0,0,1,9.0,19.5,100,130,100,63,60,4,3,Ubers
-palkia-origin,Pressure,Telepathy,,0,0,0,0,1,0,11.5,15.0,90,100,100,150,120,4,2,Ubers
-ursaluna-bloodmoon,Mind's Eye,,,0,0,1,1,0,1,11.0,16.5,113,70,120,135,65,2,4,Ubers
-landorus-incarnate,Sheer Force,Sand Force,,1,1,1,0,0,0,15.5,21.0,89,125,90,115,80,5,2,Ubers
-zekrom,Teravolt,,,0,1,1,0,0,0,11.0,13.5,100,150,120,120,100,1,3,Ubers
-roaring-moon,Protosynthesis,,,0,1,1,1,1,0,7.0,11.0,105,139,71,55,101,4,2,Ubers
-ogerpon-hearthflame-mask,Mold Breaker,,,0,1,1,0,1,0,9.5,14.5,80,120,84,60,96,3,2,Ubers
-palafin-hero,Zero to Hero,,,0,1,1,0,1,1,12.0,6.0,100,160,97,106,87,3,3,Ubers
-arceus-electric,Multitype,,,0,0,1,1,1,1,13.0,0.0,120,120,120,120,120,4,2,Ubers
-iron-bundle,Quark Drive,,,0,1,0,0,1,0,1.0,15.5,56,80,114,124,60,2,1,Ubers
-shaymin-sky,Serene Grace,,,0,0,0,1,0,0,0.5,15.5,100,103,75,120,75,4,2,Ubers
-urshifu-single-strike,Unseen Fist,,,0,1,1,0,0,1,7.5,17.0,100,130,100,63,60,5,3,Ubers
-zamazenta-crowned,Dauntless Shield,,,0,0,1,0,1,0,26.0,18.0,92,120,140,80,140,2,2,Ubers
-volcarona,Flame Body,Swarm,,0,0,1,1,1,0,9.5,15.5,85,60,65,135,105,3,3,Ubers
-espathra,Speed Boost,Opportunist,Frisk,0,0,1,1,0,0,3.5,2.5,95,60,60,101,60,3,2,Ubers
-arceus-flying,Multitype,,,0,0,1,1,1,1,11.5,6.0,120,120,120,120,120,4,2,Ubers
-necrozma-dawn,Prism Armor,,,0,0,1,1,0,0,8.0,12.5,97,113,109,157,127,4,3,Ubers
-dialga,Pressure,Telepathy,,1,0,0,0,1,0,31.0,12.5,100,120,120,150,100,2,3,Ubers
-palkia,Pressure,Telepathy,,0,0,0,0,1,0,11.5,15.0,90,120,100,150,120,3,3,Ubers
-dialga-origin,Pressure,Telepathy,,1,0,0,0,1,0,31.0,12.5,100,100,120,150,120,2,3,Ubers
-gouging-fire,Protosynthesis,,,0,0,1,1,0,0,13.0,16.5,105,115,121,65,93,2,3,Ubers
-spectrier,Grim Neigh,,,0,0,1,0,1,0,18.0,5.0,100,65,60,145,80,4,2,Ubers
-baxcalibur,Thermal Exchange,Ice Body,,0,0,1,0,0,1,-1.0,12.5,115,145,92,75,86,2,3,Ubers
-arceus-fire,Multitype,,,1,0,1,1,0,0,13.5,5.0,120,120,120,120,120,3,2,Ubers
-solgaleo,Full Metal Body,,,0,0,0,1,1,0,24.0,14.0,137,137,107,113,89,4,3,Ubers
-reshiram,Turboblaze,,,0,0,1,0,0,0,13.0,16.5,100,120,100,150,120,5,3,Ubers
-arceus-poison,Multitype,,,0,0,1,1,1,0,14.5,-2.5,120,120,120,120,120,4,2,Ubers
-arceus-steel,Multitype,,,0,0,1,1,1,1,29.0,3.5,120,120,120,120,120,2,2,Ubers
-arceus-dark,Multitype,,,1,0,1,1,1,0,9.0,4.5,120,120,120,120,120,2,2,Ubers
-arceus-fighting,Multitype,,,0,0,1,1,1,0,6.0,-0.5,120,120,120,120,120,4,2,Ubers
-arceus-psychic,Multitype,,,0,0,1,1,0,1,3.5,2.5,120,120,120,120,120,4,2,Ubers
-arceus-grass,Multitype,,,0,0,1,1,1,0,1.5,-4.0,120,120,120,120,120,5,2,Ubers
-zacian,Intrepid Sword,,,0,0,1,0,0,0,15.0,6.0,92,120,115,80,115,6,1,Ubers
-arceus-ice,Multitype,,,0,0,1,1,1,0,-2.5,5.0,120,120,120,120,120,4,2,Ubers
-vivillon,Compound Eyes,Shield Dust,Friend Guard,0,0,1,0,0,0,1.5,14.0,80,52,50,90,50,2,3,Ubers
-arceus-dragon,Multitype,,,0,0,1,1,1,1,8.5,3.5,120,120,120,120,120,2,2,Ubers
-deoxys-normal,Pressure,,,1,0,1,0,1,1,3.5,2.5,50,150,50,150,50,5,1,Ubers
-arceus-rock,Multitype,,,1,0,1,1,1,0,1.5,7.5,120,120,120,120,120,4,2,Ubers
-arceus-bug,Multitype,,,0,0,1,1,0,1,6.0,-4.0,120,120,120,120,120,4,2,Ubers
-great-tusk,Protosynthesis,,,1,0,1,0,1,0,4.5,16.0,115,131,131,53,53,4,3,OU
-kingambit,Supreme Overlord,Defiant,Pressure,1,0,1,0,0,1,27.0,16.5,100,135,120,60,85,3,4,OU
-gholdengo,Good as Gold,,,0,0,1,1,1,0,35.0,16.5,87,60,95,133,91,3,3,OU
-dragonite,Multiscale,Inner Focus,,0,0,1,1,1,1,9.0,12.5,91,134,95,100,100,4,3,OU
-zamazenta,Dauntless Shield,,,0,0,1,0,1,0,6.0,-0.5,92,120,115,80,115,4,1,OU
-iron-valiant,Quark Drive,,,0,0,1,0,1,1,9.0,17.0,74,130,90,120,60,3,2,OU
-ogerpon-wellspring-mask,Water Absorb,,,0,1,1,0,1,0,7.0,10.0,80,120,84,60,96,3,2,OU
-raging-bolt,Protosynthesis,,,0,1,1,0,0,1,11.0,13.5,125,73,91,137,89,1,3,OU
-dragapult,Infiltrator,Clear Body,Cursed Body,0,1,0,0,1,1,17.5,13.5,88,120,75,100,75,4,1,OU
-ting-lu,Vessel of Ruin,,,1,0,0,0,1,0,9.0,19.5,155,110,125,55,80,1,4,OU
-kyurem,Pressure,,,0,0,1,0,0,0,-1.0,12.5,125,130,90,130,90,2,3,OU
-pecharunt,Poison Puppeteer,,,0,1,1,1,1,0,18.0,15.0,88,88,160,88,88,2,3,OU
-hatterene,Magic Bounce,Healer,,0,0,1,0,0,0,10.0,12.5,57,90,95,136,103,2,4,OU
-iron-treads,Quark Drive,,,1,1,0,0,1,0,27.0,19.5,90,112,120,72,70,4,2,OU
-slowking-galar,Regenerator,Curious Medicine,,0,1,0,0,1,0,9.5,12.5,95,65,80,110,110,2,4,OU
-corviknight,Pressure,Mirror Armor,Unnerve,0,1,1,1,1,0,35.0,13.0,98,87,105,53,85,3,3,OU
-glimmora,Toxic Debris,Corrosion,,1,0,0,0,1,0,6.0,13.0,83,55,90,130,81,3,3,OU
-cinderace,Libero,Blaze,,0,1,1,0,1,1,13.5,5.0,80,116,75,65,75,4,2,OU
-landorus-therian,Intimidate,,,1,1,0,0,1,0,15.5,21.0,89,145,90,105,80,4,3,OU
-samurott-hisui,Sharpness,Torrent,,1,1,1,0,1,1,12.0,16.5,90,108,80,100,65,1,3,OU
-gliscor,Poison Heal,Hyper Cutter,,1,1,1,0,1,0,15.5,21.0,75,95,125,45,75,3,3,OU
-darkrai,Bad Dreams,,,0,0,1,0,1,1,9.0,4.5,70,90,90,135,90,4,2,OU
-alomomola,Regenerator,Healer,,0,1,0,1,0,1,12.0,6.0,165,75,80,40,45,3,3,OU
-deoxys-speed,Pressure,,,1,0,1,0,1,0,3.5,2.5,50,95,90,95,90,3,1,OU
-iron-moth,Quark Drive,,,1,0,0,1,0,0,13.0,14.0,80,70,60,140,110,5,2,OU
-ceruledge,Weak Armor,Flash Fire,,0,0,1,0,1,1,21.0,18.0,75,125,80,60,100,2,3,OU
-zapdos,Static,Pressure,,0,1,0,1,1,0,20.0,14.0,90,90,85,125,90,3,3,OU
-tornadus-therian,Regenerator,,,0,1,1,0,1,0,11.5,6.0,79,100,80,110,90,6,2,OU
-rillaboom,Grassy Surge,Overgrow,,0,1,1,0,1,0,1.5,-4.0,100,125,90,60,70,5,3,OU
-walking-wake,Protosynthesis,,,0,1,0,0,1,0,11.5,15.0,99,83,91,125,83,3,2,OU
-moltres,Flame Body,Pressure,,0,1,0,1,1,0,16.0,14.0,90,100,90,125,85,2,3,OU
-garganacl,Purifying Salt,Sturdy,Clear Body,1,0,1,1,0,0,1.5,7.5,100,100,130,45,90,3,4,OU
-enamorus-incarnate,Contrary,Cute Charm,,0,0,1,0,0,0,14.5,14.0,74,115,70,135,80,5,2,OU
-weezing-galar,Neutralizing Gas,Levitate,Misty Surge,1,0,0,0,1,0,18.5,11.5,65,90,120,85,70,1,4,OU
-clefable,Magic Guard,Unaware,Cute Charm,1,0,1,1,1,0,15.0,6.0,95,70,73,95,90,2,4,OU
-primarina,Torrent,Liquid Voice,,0,1,1,0,0,1,19.0,18.0,80,74,74,126,116,1,4,OU
-tyranitar,Sand Stream,Unnerve,,1,0,0,0,1,0,0.0,15.5,100,134,110,95,100,3,3,OU
-heatran,Flash Fire,Flame Body,,1,0,0,0,1,0,26.5,13.0,91,90,106,130,106,1,3,OU
-iron-crown,Quark Drive,,,0,1,1,0,0,0,24.0,14.0,90,72,100,122,108,3,3,OU
-ogerpon,Defiant,,,1,1,1,1,1,0,1.5,-4.0,80,120,84,60,96,4,2,OU
-dondozo,Unaware,Water Veil,Oblivious,0,0,0,0,0,0,12.0,6.0,150,100,115,65,65,4,4,OU
-excadrill,Mold Breaker,Sand Rush,Sand Force,1,0,1,0,1,0,27.0,19.5,110,135,60,50,65,3,3,UU
-latios,Levitate,,,0,1,1,1,1,0,3.0,11.0,80,90,80,130,110,3,2,UU
-skarmory,Sturdy,Weak Armor,Keen Eye,1,0,1,1,1,0,35.0,13.0,65,80,140,40,70,2,3,UU
-lokix,Tinted Lens,Swarm,,0,1,1,0,1,1,7.0,10.0,71,102,78,52,55,1,3,UU
-greninja,Battle Bond,Protean,Torrent,0,1,0,0,0,0,12.0,16.5,72,95,67,103,71,5,2,UU
-mandibuzz,Overcoat,Big Pecks,Weak Armor,0,1,0,1,1,0,13.5,16.5,110,65,105,55,95,1,3,UU
-scizor,Technician,Swarm,,0,1,1,0,1,1,27.0,13.0,70,130,100,55,80,4,3,UU
-thundurus-therian,Volt Absorb,,,0,1,1,0,1,0,20.0,14.0,79,105,70,145,80,5,2,UU
-arcanine-hisui,Rock Head,Intimidate,Flash Fire,1,0,0,1,1,1,3.5,18.0,95,115,80,95,80,3,3,UU
-donphan,Sturdy,,,1,0,0,0,1,1,9.0,7.0,90,120,120,60,60,5,4,UU
-slowking,Regenerator,Oblivious,,0,1,0,1,1,0,6.5,16.5,95,75,80,100,110,2,4,UU
-weavile,Pressure,Pickpocket,,0,0,1,0,1,1,-4.0,18.0,70,120,65,45,85,2,2,UU
-skeledirge,Unaware,Blaze,,0,0,0,1,1,0,21.0,18.0,104,75,100,110,75,2,3,UU
-tinkaton,Pickpocket,Mold Breaker,Own Tempo,1,0,1,0,1,0,36.5,13.0,85,75,77,70,105,4,3,UU
-clodsire,Water Absorb,Unaware,Poison Point,1,0,0,1,1,0,14.0,19.5,130,75,60,45,100,1,4,UU
-hydrapple,Regenerator,Sticky Hold,Supersweet Syrup,0,0,1,1,0,0,-4.0,12.5,106,80,110,120,80,2,4,UU
-conkeldurr,Guts,Iron Fist,Sheer Force,0,0,1,0,1,1,6.0,-0.5,105,140,95,55,65,5,4,UU
-sinistcha,Heatproof,Hospitality,,0,0,1,1,0,0,12.5,16.5,71,60,106,121,80,2,3,UU
-slither-wing,Protosynthesis,,,0,1,1,1,0,0,2.5,9.5,85,135,79,85,105,3,3,UU
-keldeo-ordinary,Justified,,,0,1,1,0,1,1,9.0,19.5,91,72,90,129,90,2,2,UU
-sandy-shocks,Protosynthesis,,,1,1,0,0,0,0,10.5,17.0,85,81,97,121,85,3,2,UU
-zapdos-galar,Defiant,,,0,1,1,0,1,0,8.0,21.0,90,125,90,85,90,3,3,UU
-manaphy,Hydration,,,0,0,0,0,0,0,12.0,6.0,100,100,100,100,100,4,3,UU
-rotom-wash,Levitate,,,0,1,0,0,1,0,15.5,11.5,50,65,107,105,107,0,3,UU
-hippowdon,Sand Stream,Sand Force,,1,0,0,1,1,0,9.0,7.0,108,112,118,68,72,3,4,UU
-metagross,Clear Body,,,1,0,1,0,1,1,24.0,14.0,80,135,130,95,90,3,3,UU
-azumarill,Huge Power,Sap Sipper,Thick Fat,0,0,0,0,1,1,19.0,18.0,100,50,80,60,80,2,4,UU
-fezandipiti,Toxic Chain,Technician,,0,1,1,1,1,0,18.5,11.5,88,91,82,70,125,3,3,UU
-revavroom,Filter,Overcoat,,1,1,0,0,1,0,28.0,12.5,80,119,90,54,67,2,3,UU
-toxapex,Regenerator,Merciless,Limber,1,0,0,1,1,0,18.5,16.5,50,63,152,53,142,1,4,UU
-iron-jugulis,Quark Drive,,,0,1,0,0,1,0,13.5,16.5,94,80,86,122,80,6,2,UU
-cobalion,Justified,,,1,1,1,0,1,0,26.0,18.0,91,90,129,90,72,1,2,UU
-mew,Synchronize,,,1,0,0,0,1,0,3.5,2.5,100,100,100,100,100,3,3,UU
-hydreigon,Levitate,,,0,1,1,0,0,0,7.0,11.0,92,105,90,125,90,5,3,UU
-talonflame,Flame Body,Gale Wings,,0,1,0,1,1,0,16.0,14.0,78,81,71,74,69,1,2,UU
-mimikyu-disguised,Disguise,,,0,0,1,0,1,1,22.0,16.5,55,90,80,50,105,3,3,RU
-krookodile,Moxie,Intimidate,,1,0,1,0,1,0,9.0,19.5,95,117,80,65,70,5,3,RU
-chesnaught,Bulletproof,Overgrow,,1,0,1,1,1,0,-2.0,12.0,88,107,122,74,75,1,3,RU
-bisharp,Defiant,Inner Focus,Pressure,1,0,1,0,0,1,27.0,16.5,65,125,100,60,70,4,3,RU
-gengar,Cursed Body,,,1,0,1,0,1,0,18.0,15.0,60,65,60,130,75,1,2,RU
-armarouge,Weak Armor,Flash Fire,,0,0,1,0,0,0,9.0,18.0,85,60,100,125,80,3,3,RU
-slowbro,Regenerator,Oblivious,,0,0,1,1,1,0,6.5,16.5,95,75,110,100,80,3,4,RU
-basculegion-female,Adaptability,Swift Swim,Mold Breaker,0,1,1,0,0,1,21.0,16.5,120,92,65,100,75,2,3,RU
-cyclizar,Regenerator,Shed Skin,,0,1,0,0,1,0,10.5,8.0,70,95,65,85,65,4,2,RU
-noivern,Infiltrator,Frisk,,0,1,0,1,1,0,9.0,12.5,85,70,80,97,80,3,2,RU
-goodra-hisui,Sap Sipper,Gooey,Shell Armor,0,0,0,0,1,0,31.0,12.5,80,100,100,110,150,5,4,RU
-entei,Inner Focus,Pressure,,0,0,0,0,0,1,13.5,5.0,115,115,85,90,75,6,3,RU
-kleavor,Sharpness,Swarm,Sheer Force,1,1,1,0,0,0,3.5,14.5,70,135,95,45,70,5,3,RU
-ribombee,Shield Dust,Sweet Veil,Honey Gather,1,1,1,0,1,0,10.5,9.0,60,55,60,95,70,2,2,RU
-torterra,Overgrow,Shell Armor,,0,0,1,0,0,0,0.5,12.0,95,109,105,75,85,3,4,RU
-crawdaunt,Adaptability,Hyper Cutter,,0,0,1,0,1,1,12.0,16.5,63,120,85,90,55,3,4,RU
-jirachi,Serene Grace,,,1,1,0,1,1,0,24.0,14.0,100,100,100,100,100,3,3,RU
-forretress,Sturdy,Overcoat,,1,1,0,0,1,0,27.0,13.0,75,90,140,60,60,4,4,RU
-muk-alola,Poison Touch,Gluttony,Power of Alchemy,0,0,0,0,1,1,21.0,15.0,105,105,75,65,100,3,4,RU
-mienshao,Regenerator,Reckless,Inner Focus,0,1,1,0,1,0,6.0,-0.5,65,125,60,95,60,6,2,RU
-gallade,Sharpness,Justified,Steadfast,0,0,1,0,1,1,3.5,17.0,68,125,65,65,115,4,3,RU
-quagsire,Unaware,Water Absorb,Damp,1,0,0,1,1,0,16.0,15.5,95,85,85,65,65,1,4,RU
-empoleon,Competitive,Torrent,,1,1,0,1,1,1,31.0,14.0,84,86,88,111,101,4,4,RU
-magnezone,Magnet Pull,Analytic,Sturdy,0,1,1,0,0,0,28.5,14.0,70,70,115,130,90,3,4,RU
-diancie,Clear Body,,,1,0,0,0,1,0,8.0,17.0,50,100,150,100,150,2,4,RU
-terrakion,Justified,,,1,0,1,0,1,0,-0.5,21.0,91,129,90,72,90,2,2,RU
-breloom,Poison Heal,Technician,Effect Spore,0,0,1,0,0,1,-2.0,12.0,60,130,80,60,60,1,3,RU
-porygon-z,Download,Adaptability,Analytic,0,0,1,1,1,0,11.0,-0.5,85,80,70,135,75,4,3,RU
-politoed,Drizzle,Water Absorb,,0,0,0,0,1,0,12.0,6.0,90,75,75,90,100,3,3,RU
-gastrodon,Storm Drain,Sticky Hold,Sand Force,1,0,0,1,0,0,16.0,15.5,111,83,68,92,82,2,4,RU
-gardevoir,Trace,Synchronize,,0,0,0,0,1,0,10.0,12.5,68,65,65,125,115,3,3,RU
-blissey,Natural Cure,Serene Grace,Healer,1,0,1,1,1,0,11.0,-0.5,255,10,10,75,135,3,4,RU
-maushold-family-of-four,Technician,Friend Guard,,0,1,1,0,1,0,11.0,-0.5,74,75,70,65,75,6,2,RU
-suicune,Pressure,Inner Focus,,0,0,1,0,1,0,12.0,6.0,100,75,115,90,115,3,3,RU
-toxtricity-amped,Punk Rock,Technician,,1,1,0,0,1,0,17.0,12.5,75,98,70,114,70,3,3,RU
-registeel,Clear Body,Light Metal,,1,0,1,0,1,0,29.0,3.5,80,75,150,75,150,3,4,RU
-feraligatr,Sheer Force,Torrent,,0,0,1,0,0,1,12.0,6.0,85,105,100,79,83,4,3,RU
-barraskewda,Swift Swim,,,0,1,0,0,0,1,12.0,6.0,61,123,60,60,50,6,1,RU
-umbreon,Synchronize,Inner Focus,,0,0,1,1,1,0,9.0,4.5,95,65,110,60,130,0,3,RU
-necrozma,Prism Armor,,,1,0,1,0,1,0,3.5,2.5,97,107,101,127,89,5,3,RU
-tsareena,Queenly Majesty,Leaf Guard,Sweet Veil,0,1,0,1,1,0,1.5,-4.0,72,120,98,50,98,5,3,NU
-duraludon,Light Metal,Heavy Metal,Stalwart,1,0,1,0,1,0,31.0,12.5,70,95,115,120,50,3,3,NU
-flygon,Levitate,,,1,1,1,0,0,0,6.5,18.0,80,100,80,80,80,4,3,NU
-incineroar,Intimidate,Blaze,,0,1,1,0,1,0,15.5,18.0,95,115,90,80,90,3,4,NU
-swampert,Torrent,Damp,,1,1,1,0,1,0,16.0,15.5,100,110,90,85,90,3,4,NU
-bellibolt,Electromorphosis,Static,Damp,0,1,0,1,1,0,13.0,0.0,109,64,91,103,83,1,4,NU
-vaporeon,Water Absorb,Hydration,,0,1,1,1,1,0,12.0,6.0,130,65,60,110,95,2,3,NU
-munkidori,Toxic Chain,Frisk,,0,1,1,0,1,0,9.5,12.5,88,75,66,130,90,4,2,NU
-tauros-paldea-aqua-breed,Intimidate,Cud Chew,,0,0,1,0,0,1,9.0,19.5,75,110,105,30,70,4,3,NU
-overqwil,Intimidate,Swift Swim,Poison Point,1,0,1,0,0,1,21.0,15.0,85,115,95,65,65,2,3,NU
-gligar,Immunity,Hyper Cutter,,1,1,1,0,1,0,15.5,21.0,65,75,105,35,65,2,3,NU
-cinccino,Technician,Skill Link,Cute Charm,0,1,1,0,1,0,11.0,-0.5,75,95,60,65,60,5,2,NU
-chandelure,Flash Fire,Flame Body,Infiltrator,0,0,1,0,1,0,21.0,18.0,60,55,90,145,90,3,3,NU
-basculegion-male,Adaptability,Swift Swim,Mold Breaker,0,1,0,0,0,1,21.0,16.5,120,112,65,80,75,4,3,NU
-bronzong,Levitate,Heatproof,Heavy Metal,1,0,1,0,1,0,24.0,14.0,67,89,116,79,116,2,4,NU
-grafaiai,Unburden,Prankster,Poison Touch,0,1,1,0,1,0,17.5,4.5,63,95,65,80,72,3,2,NU
-flamigo,Scrappy,,,0,1,1,1,0,0,8.0,21.0,82,115,74,75,64,3,3,NU
-tornadus-incarnate,Prankster,Defiant,,0,1,1,0,1,0,11.5,6.0,79,115,70,125,80,3,2,NU
-brambleghast,Wind Rider,Infiltrator,,1,0,0,1,1,1,12.5,16.5,55,115,70,80,70,2,3,NU
-staraptor,Reckless,Intimidate,,0,1,0,0,0,0,14.5,8.5,85,120,70,50,60,2,3,NU
-copperajah,Sheer Force,Heavy Metal,,1,0,0,0,1,0,29.0,3.5,122,130,69,80,69,5,4,NU
-articuno-galar,Competitive,,,0,1,1,1,0,0,5.5,12.5,90,85,85,125,100,3,3,NU
-infernape,Blaze,Iron Fist,,1,1,0,0,1,1,11.0,19.5,76,104,71,104,71,2,2,NU
-espeon,Magic Bounce,Synchronize,,0,0,1,1,1,0,3.5,2.5,65,65,60,130,95,4,2,NU
-raikou,Pressure,Inner Focus,,0,1,1,0,0,0,13.0,0.0,90,85,75,115,100,4,2,NU
-dudunsparce-two-segment,Rattled,Serene Grace,,1,0,1,1,1,0,11.0,-0.5,125,100,80,85,75,4,4,NU
-scyther,Technician,Steadfast,Swarm,0,1,1,0,1,0,1.5,14.0,70,110,80,55,80,3,2,NU
-klefki,Prankster,Magician,,1,0,1,0,1,0,36.5,13.0,57,80,91,80,87,1,3,NU
-reuniclus,Magic Guard,Regenerator,,0,0,1,1,1,0,3.5,2.5,110,65,75,125,85,3,4,NU
-arcanine,Intimidate,Flash Fire,Justified,0,0,0,1,1,1,13.5,5.0,90,110,80,100,80,4,3,NU
-sylveon,Pixilate,Cute Charm,,0,0,1,1,1,0,15.0,6.0,95,65,65,110,130,3,4,NU
-scream-tail,Protosynthesis,,,1,0,1,1,1,0,10.0,12.5,115,65,99,65,115,2,2,NU
-braviary,Defiant,Sheer Force,Keen Eye,0,1,1,1,1,0,14.5,8.5,100,123,75,57,75,3,3,NU
-chansey,Natural Cure,Serene Grace,Healer,1,0,1,1,1,0,11.0,-0.5,250,5,5,35,105,3,4,NU
-houndstone,Fluffy,Sand Rush,,0,0,0,0,1,1,18.0,5.0,72,101,100,50,97,2,3,NU
-rhyperior,Solid Rock,Lightning Rod,Reckless,1,0,1,0,0,0,-3.0,21.0,115,140,130,55,55,4,4,NU
-kilowattrel,Volt Absorb,Competitive,Wind Power,0,1,0,1,0,0,20.0,14.0,70,70,60,105,60,2,2,NU
-tentacruel,Liquid Ooze,Clear Body,Rain Dish,1,1,0,0,1,0,18.5,16.5,80,70,65,80,120,2,3,NU
-araquanid,Water Bubble,Water Absorb,,1,0,0,0,0,0,11.0,18.0,68,70,92,50,132,4,4,NU
-avalugg,Sturdy,Ice Body,Own Tempo,0,0,0,1,1,0,-2.5,5.0,95,117,184,44,46,6,4,NU
-thwackey,Grassy Surge,,,0,1,1,1,1,0,1.5,-4.0,70,85,70,55,60,4,3,NU
-uxie,Levitate,,,1,1,0,0,1,0,3.5,2.5,75,75,130,75,130,2,3,NU
-altaria,Natural Cure,Cloud Nine,,0,0,1,1,1,0,9.0,12.5,75,70,90,70,105,2,3,NU
-meloetta-aria,Serene Grace,,,0,0,1,0,1,0,10.0,9.5,100,77,77,128,128,3,3,NU
-vileplume,Effect Spore,Chlorophyll,,0,0,0,1,1,0,8.5,11.5,75,80,85,110,90,1,4,NU
-goodra,Sap Sipper,Gooey,Hydration,0,0,0,0,1,0,8.5,3.5,90,100,70,110,150,4,3,NU
-sandslash-alola,Slush Rush,,,1,0,1,0,1,0,15.0,12.0,75,100,120,25,65,3,3,PU
-milotic,Marvel Scale,Competitive,Cute Charm,0,1,0,1,1,0,12.0,6.0,95,60,79,100,125,5,3,PU
-florges,Flower Veil,Symbiosis,,0,0,1,1,1,0,15.0,6.0,78,65,68,112,154,3,3,PU
-hoopa,Magician,,,0,0,1,0,1,0,8.0,12.5,80,110,60,150,130,4,3,PU
-pawmot,Volt Absorb,Iron Fist,Natural Cure,0,1,0,1,1,1,11.0,19.5,70,115,70,70,60,3,2,PU
-coalossal,Flame Body,Steam Engine,Flash Fire,1,0,0,0,1,0,3.5,18.0,110,80,120,80,90,4,4,PU
-bruxish,Strong Jaw,Dazzling,Wonder Skin,0,1,1,0,0,1,6.5,16.5,68,105,70,70,70,3,3,PU
-qwilfish-hisui,Intimidate,Poison Point,Swift Swim,1,0,1,0,1,0,21.0,15.0,65,95,85,55,55,1,3,PU
-mudsdale,Stamina,Inner Focus,Own Tempo,1,0,1,0,1,0,9.0,7.0,100,125,100,55,85,3,4,PU
-hariyama,Thick Fat,Guts,Sheer Force,0,0,1,0,1,1,6.0,-0.5,144,120,60,40,60,4,4,PU
-golurk,No Guard,Iron Fist,Klutz,1,0,0,0,1,0,16.5,19.5,89,124,80,55,80,5,4,PU
-decidueye-hisui,Scrappy,Overgrow,,0,1,1,1,1,1,-2.0,12.0,88,112,80,95,95,4,4,PU
-tauros-paldea-blaze-breed,Intimidate,Cud Chew,Anger Point,0,0,1,0,0,0,11.0,19.5,75,110,105,30,70,5,3,PU
-bombirdier,Big Pecks,Rocky Payload,Keen Eye,1,1,0,1,1,1,13.5,16.5,70,103,85,60,85,2,3,PU
-floatzel,Water Veil,Swift Swim,,0,1,1,0,1,1,12.0,6.0,85,105,55,85,50,3,2,PU
-rhydon,Lightning Rod,Rock Head,Reckless,1,0,1,0,1,0,-3.0,21.0,105,130,120,45,45,2,4,PU
-cramorant,Gulp Missile,,,0,0,0,1,1,0,15.0,18.0,70,85,55,85,95,2,3,PU
-rotom-heat,Levitate,,,0,1,1,0,1,0,14.5,15.5,50,65,107,105,107,1,3,PU
-salazzle,Corrosion,Oblivious,,0,0,1,0,1,0,13.0,14.0,68,64,60,111,60,1,2,PU
-lanturn,Volt Absorb,Water Absorb,,0,1,0,0,1,0,15.5,11.5,125,58,58,76,76,1,3,PU
-ambipom,Technician,Skill Link,Pickup,0,1,0,0,1,0,11.0,-0.5,75,100,66,60,66,4,2,PU
-zoroark,Illusion,,,0,1,1,0,1,1,9.0,4.5,60,105,60,120,60,4,2,PU
-amoonguss,Regenerator,Effect Spore,,0,0,0,1,1,0,8.5,11.5,114,85,70,85,80,3,4,PU
-tatsugiri-curly,Storm Drain,Commander,,0,0,1,0,1,0,11.5,15.0,68,50,60,120,95,2,3,PU
-avalugg-hisui,Sturdy,Strong Jaw,Ice Body,1,0,0,1,1,0,-12.0,17.0,95,127,184,34,36,3,4,PU
-porygon2,Download,Analytic,Trace,0,0,0,1,1,0,11.0,-0.5,85,80,90,105,95,4,4,PU
-galvantula,Compound Eyes,Swarm,Unnerve,1,1,0,0,1,0,12.0,16.5,70,77,60,97,60,2,2,PU
-braviary-hisui,Sheer Force,Tinted Lens,Keen Eye,0,0,1,1,0,1,5.5,12.5,110,83,70,112,70,3,3,PU
-typhlosion-hisui,Blaze,Frisk,,0,0,0,0,0,0,21.0,18.0,73,84,78,119,85,3,3,PU
-palossand,Water Compaction,,,1,0,0,1,1,0,16.5,19.5,85,75,110,100,75,2,4,PU
-grimmsnarl,Prankster,Pickpocket,Frisk,0,1,1,0,1,1,15.5,16.5,95,120,65,95,75,0,4,PU
-mismagius,Levitate,,,0,0,1,0,1,0,18.0,5.0,60,60,60,105,105,3,2,PU
-qwilfish,Intimidate,Swift Swim,Poison Point,1,1,1,0,0,1,18.5,16.5,65,95,85,55,55,0,3,PU
-shaymin-land,Natural Cure,,,0,0,1,1,0,0,1.5,-4.0,100,100,100,100,100,5,3,PU
-rotom-mow,Levitate,,,0,1,1,0,1,0,6.0,10.0,50,65,107,105,107,2,3,PU
-ninetales-alola,Snow Warning,,,0,0,1,0,1,0,3.0,13.0,73,67,75,81,100,3,2,PU
-hitmonlee,Unburden,Limber,Reckless,0,0,1,0,1,0,6.0,-0.5,50,120,53,35,110,5,3,PU
-delphox,Blaze,Magician,,0,0,1,0,1,0,9.0,18.0,75,69,72,114,100,2,2,PU
-venusaur,Chlorophyll,Overgrow,,0,0,0,1,1,0,8.5,11.5,80,82,83,100,100,3,3,PU
-snorlax,Thick Fat,Immunity,Gluttony,0,0,0,0,0,0,11.0,-0.5,160,110,65,65,110,5,4,ZU
-passimian,Defiant,Receiver,,0,1,1,0,1,0,6.0,-0.5,100,120,90,40,60,6,3,ZU
-honchkrow,Moxie,Super Luck,,0,1,0,0,1,1,13.5,16.5,100,125,52,105,52,2,3,ZU
-skuntank,Aftermath,Stench,,1,0,0,0,1,1,21.0,15.0,103,93,67,71,61,2,3,ZU
-jolteon,Volt Absorb,Quick Feet,,0,1,1,0,0,0,13.0,0.0,65,65,60,110,95,3,2,ZU
-clawitzer,Mega Launcher,,,0,1,0,0,0,0,12.0,6.0,71,73,88,120,89,7,4,ZU
-whimsicott,Prankster,Infiltrator,Chlorophyll,0,1,0,1,1,0,7.0,10.5,60,67,85,77,75,2,2,ZU
-brute-bonnet,Protosynthesis,,,0,0,0,1,0,1,0.0,16.5,111,127,99,79,99,3,4,ZU
-electrode-hisui,Aftermath,Soundproof,Static,0,1,0,1,1,0,6.0,10.0,60,50,70,80,80,2,1,ZU
-lycanroc-midday,Steadfast,Keen Eye,Sand Rush,1,0,1,0,1,0,1.5,7.5,75,115,65,55,65,4,2,ZU
-drifblim,Unburden,Aftermath,Flare Boost,0,0,1,1,1,0,16.5,16.5,150,80,44,90,54,2,3,ZU
-indeedee-female,Psychic Surge,,,0,0,0,0,0,0,10.0,9.5,70,55,65,95,105,1,3,ZU
-magneton,Analytic,Magnet Pull,Sturdy,0,1,0,0,1,0,28.5,14.0,50,60,95,120,70,1,3,ZU
-kingdra,Sniper,Swift Swim,Damp,0,0,1,0,0,0,11.5,15.0,75,95,95,95,95,1,3,ZU
-sceptile,Unburden,Overgrow,,0,0,1,0,0,0,1.5,-4.0,70,85,65,105,85,4,2,ZU
-emboar,Reckless,Blaze,,0,0,1,0,1,1,11.0,19.5,110,123,65,100,65,5,3,ZU
-virizion,Justified,,,0,0,1,1,0,0,-2.0,12.0,91,90,72,90,129,2,2,ZU
-gurdurr,Guts,Iron Fist,Sheer Force,0,0,1,0,1,1,6.0,-0.5,85,105,85,40,50,3,4,ZU
-malamar,Contrary,Infiltrator,,0,0,0,0,1,0,2.5,12.5,86,92,88,68,75,2,3,ZU
-persian-alola,Fur Coat,Technician,,0,1,0,0,1,0,9.0,4.5,65,60,60,75,65,3,2,ZU
-mesprit,Levitate,,,1,1,0,0,1,0,3.5,2.5,80,105,105,105,105,4,3,ZU
-carbink,Clear Body,Sturdy,,1,0,1,0,0,0,8.0,17.0,50,50,150,50,150,3,4,ZU
-toedscruel,Mycelium Might,,,1,0,0,1,1,0,0.5,12.0,80,70,65,80,120,3,3,ZU
-sandaconda,Shed Skin,Sand Spit,,1,0,0,0,1,0,9.0,7.0,72,107,125,65,70,4,3,ZU
-alcremie,Aroma Veil,Sweet Veil,,0,0,1,1,0,0,15.0,6.0,65,60,75,110,121,2,3,ZU
-basculin-red-striped,Adaptability,Rock Head,Reckless,0,1,0,0,0,1,12.0,6.0,70,92,65,80,55,6,3,ZU
-probopass,Sturdy,Magnet Pull,Sand Force,1,1,1,0,1,0,16.0,15.5,60,55,145,75,150,4,4,ZU
-medicham,Pure Power,,,0,0,0,0,1,1,3.5,17.0,60,60,75,60,75,5,3,ZU
-orthworm,Earth Eater,,,1,0,1,0,0,0,29.0,3.5,70,85,145,60,55,2,3,ZU
-smeargle,Technician,Own Tempo,,1,0,1,0,1,0,11.0,-0.5,55,20,35,20,45,4,3,ZU
-regirock,Clear Body,Sturdy,,1,0,1,0,1,0,1.5,7.5,80,100,200,50,100,1,4,ZU
-tauros,Sheer Force,Intimidate,,0,0,0,0,0,0,11.0,-0.5,75,100,95,40,70,7,2,ZU
-froslass,Cursed Body,,,1,0,0,0,1,0,10.0,18.0,70,80,70,80,70,0,2,ZU
-primeape,Defiant,Vital Spirit,,1,1,1,0,1,0,6.0,-0.5,65,105,60,60,70,3,3,ZU
-sandslash,Sand Rush,,,1,0,1,0,1,0,9.0,7.0,75,100,110,45,55,5,3,ZU
-bellossom,Chlorophyll,Healer,,0,0,1,1,0,0,1.5,-4.0,75,80,95,90,100,4,4,ZU
-hattrem,Magic Bounce,,,0,0,1,0,0,0,3.5,2.5,57,40,65,86,73,3,4,ZU
-scovillain,Chlorophyll,,,0,0,0,0,0,0,9.5,14.5,65,108,65,108,65,2,3,ZU
-hitmontop,Technician,Intimidate,,0,0,0,0,1,1,6.0,-0.5,50,95,95,35,110,5,3,ZU
-minior-red-meteor,Shields Down,,,0,0,1,0,0,0,9.5,15.5,60,60,100,60,100,3,4,ZU
-glastrier,Chilling Neigh,,,0,0,1,0,0,0,-2.5,5.0,100,145,130,65,110,6,4,ZU
-venomoth,Tinted Lens,Shield Dust,Wonder Skin,0,1,1,1,0,0,9.5,7.5,70,65,60,90,75,2,3,ZU
-sneasel,Inner Focus,Pickpocket,,0,0,1,0,1,1,-4.0,18.0,55,95,55,35,75,1,2,ZU
-oricorio-baile,Dancer,,,0,1,1,1,1,0,16.0,14.0,75,70,70,98,70,3,3,ZU
-vikavolt,Levitate,,,1,1,1,0,0,0,12.0,16.5,77,70,90,145,75,4,4,ZU
-eelektross,Levitate,,,0,1,0,0,1,0,13.0,0.0,85,115,80,105,80,7,4,ZU
-rotom,Levitate,,,0,1,1,0,1,0,22.0,15.0,50,50,77,95,77,0,3,ZU
-lurantis,Contrary,,,0,0,0,1,1,0,1.5,-4.0,70,105,90,80,90,4,4,ZU
-electivire,Motor Drive,Vital Spirit,,0,1,1,0,1,0,13.0,0.0,75,123,67,95,85,5,3,ZU
-dusclops,Pressure,Frisk,,0,0,0,0,1,0,18.0,5.0,40,70,130,60,130,1,4,ZU
-naclstack,Purifying Salt,,,1,0,1,1,0,0,1.5,7.5,60,60,100,35,65,2,4,ZU
-veluza,Sharpness,Mold Breaker,,0,1,0,1,0,1,6.5,16.5,90,102,73,78,65,2,3,ZU
-volbeat,Prankster,Swarm,,0,1,0,1,1,0,6.0,-4.0,65,73,75,47,85,0,3,ZU
-cacturne,Water Absorb,,,1,0,1,1,1,1,0.0,16.5,70,115,60,115,60,2,4,ZU
-morpeko-full-belly,Hunger Switch,,,0,1,0,0,1,0,13.0,15.0,58,95,58,70,58,2,3,ZU
-arboliva,Seed Sower,Harvest,,0,0,0,1,1,0,3.5,11.0,78,69,90,125,109,2,4,ZU
-sableye,Prankster,,,0,0,1,1,1,0,24.5,9.5,50,75,75,65,65,0,4,ZU
-cryogonal,Levitate,,,0,0,0,1,1,0,-2.5,5.0,80,50,50,95,135,3,2,ZU
-trevenant,Harvest,Natural Cure,Frisk,0,0,0,1,0,1,12.5,16.5,85,110,76,65,82,3,4,ZU
-slaking,Truant,,,0,0,0,0,1,1,11.0,-0.5,150,160,100,95,65,6,3,ZU
-farigiraf,Sap Sipper,Armor Tail,Cud Chew,0,0,1,1,0,0,10.0,9.5,120,90,70,110,70,1,4,ZU
-muk,Poison Touch,Sticky Hold,,1,0,0,0,1,1,14.5,-2.5,105,105,75,65,100,4,4,ZU
-weezing,Levitate,Neutralizing Gas,,1,0,0,0,1,0,14.5,-2.5,65,90,120,85,70,1,4,ZU
-haunter,Levitate,,,0,0,0,0,1,0,18.0,15.0,45,50,45,115,55,1,3,ZU
-shiftry,Wind Rider,Chlorophyll,Pickpocket,0,0,0,0,1,1,0.0,16.5,90,100,60,90,60,4,3,ZU
-exeggutor-alola,Frisk,Harvest,,0,0,0,0,0,0,-4.0,12.5,95,105,85,125,75,4,4,ZU
-poliwrath,Water Absorb,Swift Swim,,0,0,1,0,1,0,9.0,19.5,90,95,95,70,90,2,3,ZU
-pincurchin,Electric Surge,Lightning Rod,,1,0,0,1,0,1,13.0,0.0,48,101,95,91,85,2,4,ZU
-glimmet,Toxic Debris,,,1,0,0,0,1,0,6.0,13.0,48,35,42,105,60,2,4,ZU
-klawf,Regenerator,Anger Shell,,1,0,1,0,1,0,1.5,7.5,70,100,115,35,55,5,3,ZU
-charizard,Blaze,Solar Power,,0,0,0,0,0,0,16.0,14.0,78,84,78,109,85,4,3,ZU
-rampardos,Mold Breaker,Sheer Force,,0,0,0,0,0,0,1.5,7.5,97,165,60,65,50,7,4,ZU
-sudowoodo,Sturdy,Rattled,Rock Head,1,0,0,0,1,1,1.5,7.5,70,100,115,30,65,4,4,ZU
-toucannon,Skill Link,Sheer Force,Keen Eye,0,1,0,0,1,0,14.5,8.5,80,120,75,75,75,6,4,ZU
-komala,Comatose,,,0,1,1,1,1,1,11.0,-0.5,65,115,65,75,95,3,3,ZU
-hitmonchan,Iron Fist,Inner Focus,Keen Eye,0,0,1,0,1,1,6.0,-0.5,50,105,79,35,110,6,3,ZU
-sneasel-hisui,Inner Focus,Pickpocket,,1,0,1,0,1,0,9.5,14.5,55,95,55,35,75,3,2,ZU
-whiscash,Oblivious,Anticipation,,1,0,1,0,0,0,16.0,15.5,110,78,73,76,71,2,4,ZU
-beartic,Slush Rush,Swift Swim,,0,0,1,0,0,1,-2.5,5.0,95,130,80,70,80,5,4,ZU
-ursaring,Guts,Quick Feet,,0,0,1,0,0,0,11.0,-0.5,90,130,75,75,75,4,4,ZU
-dodrio,Early Bird,Tangled Feet,,0,0,1,0,1,0,14.5,8.5,60,110,70,60,60,4,2,ZU
-raichu-alola,Surge Surfer,,,0,1,1,0,1,0,7.5,15.0,60,85,50,95,85,4,2,ZU
-ampharos,Static,,,0,1,1,0,0,0,13.0,0.0,90,75,85,115,90,4,4,ZU
-spiritomb,Infiltrator,Pressure,,0,0,1,0,1,0,24.5,9.5,50,92,108,92,108,0,4,ZU
-lilligant,Chlorophyll,Own Tempo,,0,0,1,0,0,0,1.5,-4.0,70,60,75,110,75,2,3,ZU
-spidops,Stakeout,Insomnia,,1,1,0,0,1,1,6.0,-4.0,60,79,92,52,86,3,4,ZU
-perrserker,Tough Claws,Steely Spirit,,1,1,0,0,1,0,29.0,3.5,70,110,100,50,60,5,4,ZU
-masquerain,Intimidate,,,1,1,1,0,1,0,1.5,14.0,70,60,62,100,82,2,3,ZU
-abomasnow,Snow Warning,,,0,0,0,1,0,1,-10.5,13.0,90,92,75,92,85,2,4,ZU
-dusknoir,Pressure,Frisk,,0,0,0,0,1,1,18.0,5.0,45,100,135,65,135,3,4,ZU
-appletun,Thick Fat,Ripen,,0,0,0,1,0,0,-4.0,12.5,110,85,80,100,80,1,4,ZU
-dipplin,Sticky Hold,Supersweet Syrup,,0,0,0,1,0,0,-4.0,12.5,80,80,110,95,80,1,4,ZU
-mabosstiff,Stakeout,Intimidate,Guard Dog,0,0,0,0,1,0,9.0,4.5,80,120,90,60,70,4,3,ZU
-duosion,Regenerator,Magic Guard,Overcoat,0,0,1,1,1,0,3.5,2.5,65,40,50,125,60,1,4,ZU
-dugtrio-alola,Tangling Hair,Sand Force,,1,0,1,0,0,1,27.0,19.5,35,100,60,50,70,3,2,ZU
-glaceon,Ice Body,,,0,0,1,1,0,0,-2.5,5.0,65,60,110,130,95,3,3,ZU
-illumise,Prankster,Oblivious,,0,1,0,1,1,0,6.0,-4.0,65,47,75,73,85,0,3,ZU
-lycanroc-midnight,No Guard,Keen Eye,,0,0,1,0,1,0,1.5,7.5,85,115,75,55,75,6,3,ZU
-ditto,Imposter,,,0,0,0,0,0,0,11.0,-0.5,48,48,48,48,48,0,4,ZU
-zangoose,Toxic Boost,Immunity,,0,0,1,0,1,0,11.0,-0.5,73,115,60,60,60,4,3,ZU
-articuno,Pressure,,,0,1,0,1,1,1,0.5,15.5,90,85,100,95,125,2,3,ZU
-golem,Sturdy,Rock Head,,1,0,0,0,1,0,-3.0,21.0,80,120,130,55,65,2,4,ZU
-dunsparce,Serene Grace,,,1,0,0,1,1,0,11.0,-0.5,100,70,70,65,65,3,4,ZU
-wigglytuff,Competitive,Frisk,Cute Charm,1,0,1,1,1,0,18.0,11.0,140,70,45,85,50,2,4,ZU
-oricorio-pau,Dancer,,,0,1,1,1,1,0,5.5,12.5,75,70,70,98,70,4,3,ZU
-swalot,Sticky Hold,Liquid Ooze,,1,0,0,0,1,0,14.5,-2.5,100,73,83,73,83,3,4,ZU
-persian,Technician,Limber,,0,1,0,0,1,0,11.0,-0.5,65,70,60,65,65,3,2,ZU
-dachsbun,Well-Baked Body,,,0,0,0,1,1,0,15.0,6.0,57,80,115,50,80,5,3,ZU
-rotom-fan,Levitate,,,0,1,1,0,1,0,20.0,14.0,50,65,107,105,107,3,3,ZU
-victreebel,Chlorophyll,Gluttony,,0,0,0,0,1,1,8.5,11.5,80,105,65,100,70,2,3,ZU
-quaxwell,Moxie,Torrent,,0,1,0,1,1,0,12.0,6.0,70,85,65,65,60,3,3,ZU
-lapras,Water Absorb,Shell Armor,Hydration,0,0,0,0,0,1,1.0,15.5,130,85,80,85,95,3,4,ZU
-vespiquen,Pressure,Unnerve,,1,1,0,1,1,0,1.5,14.0,70,80,102,80,102,0,4,ZU
-wugtrio,Gooey,,,0,0,0,0,0,1,12.0,6.0,35,100,50,50,70,3,2,ZU
-dugtrio,Sand Force,,,1,0,1,0,0,1,9.0,7.0,35,100,50,50,70,4,2,ZU
-flapple,Hustle,Ripen,Gluttony,0,1,1,0,0,1,-4.0,12.5,70,110,80,95,60,4,3,ZU
-leafeon,Chlorophyll,Leaf Guard,,0,0,1,1,1,0,1.5,-4.0,65,110,130,60,65,2,3,ZU
-arbok,Intimidate,Shed Skin,,0,0,0,0,1,1,14.5,-2.5,60,95,69,65,79,4,3,ZU
-camerupt,Solid Rock,,,1,0,0,0,1,0,15.0,21.0,70,100,70,105,75,3,4,ZU
-torkoal,Shell Armor,White Smoke,,1,0,0,0,1,0,13.5,5.0,70,85,140,85,70,3,4,ZU
-typhlosion,Flash Fire,Blaze,,0,0,0,0,0,0,13.5,5.0,78,84,78,109,85,5,3,ZU
-chimecho,Levitate,,,0,0,0,1,1,0,3.5,2.5,75,50,80,95,90,2,3,ZU
-luxray,Guts,Intimidate,,0,0,1,0,0,0,13.0,0.0,80,120,79,95,79,6,3,ZU
-dragonair,Marvel Scale,Shed Skin,,0,0,1,0,1,1,8.5,3.5,61,84,65,70,70,3,3,ZU
-eiscue-ice,Ice Face,,,0,1,0,0,0,0,-2.5,5.0,75,80,110,65,90,4,4,ZU
-piloswine,Thick Fat,Oblivious,,1,0,0,0,1,1,-0.5,22.5,100,100,80,60,60,2,4,ZU
-tentacool,Clear Body,Liquid Ooze,,1,1,0,0,1,0,18.5,16.5,40,40,35,50,100,4,3,ZU
-bastiodon,Sturdy,Soundproof,,1,0,1,0,1,0,16.0,15.5,60,52,168,47,138,3,4,ZU
-combusken,Speed Boost,,,0,0,1,0,0,0,11.0,19.5,60,85,60,85,60,2,4,ZU
-furret,Frisk,Keen Eye,,0,1,1,0,1,1,11.0,-0.5,85,76,64,45,55,3,3,ZU
-grookey,Grassy Surge,,,0,1,0,0,1,0,1.5,-4.0,50,65,50,40,40,4,3,ZU
-regice,Ice Body,Clear Body,,0,0,0,0,1,0,-2.5,5.0,80,50,100,100,200,3,4,ZU
-magmortar,Flame Body,Vital Spirit,,0,0,0,0,1,0,13.5,5.0,75,95,67,125,95,6,3,ZU
-ludicolo,Swift Swim,Own Tempo,Rain Dish,0,0,1,0,0,0,7.0,10.0,80,70,70,90,100,4,3,ZU
-meowstic-male,Prankster,Competitive,Keen Eye,0,0,0,0,1,0,3.5,2.5,74,48,76,83,81,2,2,ZU
-leavanny,Chlorophyll,Swarm,Overcoat,1,0,1,0,1,0,-7.5,8.0,75,103,80,70,80,4,3,ZU
-squawkabilly-green-plumage,Hustle,Guts,Intimidate,0,1,0,1,1,0,14.5,8.5,82,96,51,45,51,2,3,ZU
-houndoom,Flash Fire,Early Bird,,0,0,1,0,1,1,15.5,18.0,75,90,50,110,80,1,3,ZU
-mightyena,Moxie,Intimidate,,0,0,0,0,0,1,9.0,4.5,70,90,70,60,60,5,3,ZU
-swanna,Hydration,Keen Eye,Big Pecks,0,1,0,1,1,0,15.0,18.0,75,87,63,87,63,3,3,ZU
-crabominable,Iron Fist,Hyper Cutter,,0,0,1,0,1,0,-4.5,22.5,97,132,77,62,67,6,4,ZU
-granbull,Intimidate,Quick Feet,Rattled,0,0,1,0,1,0,15.0,6.0,90,120,75,60,60,4,4,ZU
-golem-alola,Galvanize,Sturdy,Magnet Pull,1,0,0,0,0,0,3.5,14.0,80,120,130,55,65,3,4,ZU
-exeggutor,Harvest,Chlorophyll,,0,0,1,1,0,0,-5.5,14.0,95,95,85,125,75,2,4,ZU
-sliggoo-hisui,Sap Sipper,Gooey,Shell Armor,0,0,0,0,0,0,31.0,12.5,58,75,83,83,113,4,4,ZU
-rabsca,Synchronize,,,0,0,1,1,0,0,-1.0,14.0,75,50,85,115,100,0,4,ZU
-gumshoos,Stakeout,Adaptability,,0,1,0,0,1,0,11.0,-0.5,88,110,60,55,60,5,4,ZU
-samurott,Torrent,Shell Armor,,0,1,0,0,1,1,12.0,6.0,95,100,85,108,70,4,3,ZU
-flareon,Flash Fire,Guts,,0,0,0,1,0,0,13.5,5.0,65,130,60,95,110,3,3,ZU
-noctowl,Tinted Lens,Insomnia,,0,0,0,1,1,0,14.5,8.5,100,50,50,86,96,2,3,ZU
-greedent,Cheek Pouch,,,0,0,1,0,1,0,11.0,-0.5,120,95,95,55,75,4,4,ZU
-banette,Frisk,Cursed Body,Insomnia,0,0,1,0,1,1,18.0,5.0,64,115,65,83,63,3,3,ZU
-raichu,Lightning Rod,,,0,1,1,0,1,0,13.0,0.0,60,90,55,90,80,4,2,ZU
-hypno,Inner Focus,Insomnia,,0,0,1,0,1,0,3.5,2.5,85,73,70,73,115,2,3,ZU
-pikachu,Lightning Rod,Static,,0,1,0,0,1,0,13.0,0.0,35,55,40,50,50,5,3,ZU
-gogoat,Sap Sipper,Grass Pelt,,0,0,1,1,1,0,1.5,-4.0,123,100,62,97,81,3,3,ZU
-hippopotas,Sand Stream,,,1,0,0,1,1,0,9.0,7.0,68,72,78,38,42,1,4,ZU
-rotom-frost,Levitate,,,0,1,1,0,1,0,2.5,16.5,50,65,107,105,107,2,3,ZU
-zebstrika,Lightning Rod,Motor Drive,Sap Sipper,0,1,0,0,1,0,13.0,0.0,75,100,63,80,63,5,2,ZU
-tropius,Harvest,Solar Power,Chlorophyll,0,0,1,1,0,0,0.5,15.5,99,68,83,72,87,2,4,ZU
-golduck,Cloud Nine,Swift Swim,Damp,0,1,1,0,0,0,12.0,6.0,80,82,78,95,80,3,3,ZU
-regigigas,Slow Start,,,0,0,0,0,1,0,11.0,-0.5,110,160,110,80,110,3,3,ZU
-ninetales,Flash Fire,,,0,0,1,0,1,0,13.5,5.0,73,76,75,81,100,3,3,ZU
-pyroar-male,Unnerve,Rivalry,Moxie,0,0,0,0,1,0,15.5,12.5,86,68,72,109,66,2,2,ZU
-sawsbuck,Chlorophyll,Serene Grace,Sap Sipper,0,0,1,0,0,0,3.5,11.0,80,100,70,60,70,2,3,ZU
-dewgong,Thick Fat,Hydration,,0,1,0,0,1,1,1.0,15.5,90,70,80,70,95,2,3,ZU
-misdreavus,Levitate,,,0,0,1,0,1,0,18.0,5.0,60,60,60,85,85,2,3,ZU
-crocalor,Unaware,,,0,0,0,1,1,0,13.5,5.0,81,55,78,90,58,1,4,ZU
-shroodle,Unburden,,,0,0,1,0,1,0,17.5,4.5,40,65,35,40,35,2,3,ZU
-magcargo,Flame Body,Weak Armor,,1,0,1,1,0,0,3.5,18.0,60,50,120,90,80,3,4,ZU
-ariados,Swarm,Insomnia,Sniper,1,0,0,0,1,1,9.5,7.5,70,90,70,60,70,1,4,ZU
-gothitelle,Competitive,,,0,0,1,0,0,0,3.5,2.5,70,55,95,95,110,4,3,ZU
-wartortle,Torrent,Rain Dish,,0,1,1,0,1,1,12.0,6.0,59,63,80,65,80,2,4,ZU
-grumpig,Thick Fat,Gluttony,,0,0,0,0,1,0,3.5,2.5,80,45,65,90,110,5,3,ZU
-gabite,Rough Skin,,,1,0,1,0,0,0,6.5,18.0,68,90,65,50,55,3,3,ZU
-delibird,Vital Spirit,,,1,0,0,0,1,0,0.5,15.5,45,55,45,65,45,2,3,ZU
-charjabug,Battery,,,1,1,0,0,1,0,12.0,16.5,57,82,95,55,75,1,4,ZU
-dedenne,Cheek Pouch,Pickup,,0,1,0,0,0,0,20.0,16.5,67,58,57,81,67,2,2,ZU
-tauros-paldea-combat-breed,Intimidate,,,0,0,1,0,0,0,6.0,-0.5,75,110,105,30,70,5,3,ZU
-servine,Contrary,,,0,0,0,1,1,0,1.5,-4.0,60,60,75,60,75,1,3,ZU
-falinks,Defiant,Battle Armor,,0,0,1,0,1,0,6.0,-0.5,65,100,100,70,60,5,3,ZU
-carkol,Flame Body,,,1,0,0,0,1,0,3.5,18.0,80,60,90,60,70,2,4,ZU
-oranguru,Inner Focus,,,0,0,0,0,1,0,10.0,9.5,90,60,80,90,110,4,4,ZU
-brionne,Torrent,Liquid Voice,,0,1,0,0,1,1,12.0,6.0,60,69,69,91,81,3,4,ZU
-electrode,Aftermath,Soundproof,Static,0,1,0,0,1,0,13.0,0.0,60,50,70,80,80,3,1,ZU
-clefairy,Magic Guard,,,1,0,1,1,1,0,15.0,6.0,70,45,48,60,65,2,4,ZU
-nosepass,Sturdy,,,1,0,0,0,1,0,1.5,7.5,30,45,135,45,90,1,4,ZU
-ivysaur,Chlorophyll,,,0,0,0,0,1,0,8.5,11.5,60,62,63,80,80,1,4,ZU
-wyrdeer,Intimidate,Sap Sipper,,0,0,1,0,1,0,10.0,9.5,103,105,72,105,75,2,3,ZU
-meganium,Overgrow,Leaf Guard,,0,0,0,1,1,0,1.5,-4.0,80,82,100,83,100,3,3,ZU
-mareanie,Regenerator,,,1,0,0,1,1,0,18.5,16.5,50,53,62,43,52,1,4,ZU
-seadra,Sniper,Poison Point,,0,1,1,0,0,0,12.0,6.0,55,65,95,95,45,3,3,ZU
-electabuzz,Static,,,0,1,1,0,1,0,13.0,0.0,65,83,57,95,85,6,2,ZU
-toxicroak,Dry Skin,Poison Touch,Anticipation,0,0,1,0,1,1,9.5,14.5,83,106,65,86,65,3,3,ZU
+Pokemon,Ability_1,Ability_2,Ability_3,Hazard,Pivot,Setup,Recovery,Utility,Priority,TypeDefScore,TypeOffScore,SpeedTier,PhysBulk,SpeBulk,AtkToSpaRatio,WastedStatRatio,Tier
+koraidon,Orichalcum Pulse,,,0,1,1,0,0,0,4.0,15.5,1,11500,10000,1.588235294117647,0.12686567164179105,Ubers
+zacian-crowned,Intrepid Sword,,,0,0,1,0,0,0,36.5,13.0,1,10580,10580,1.875,0.11428571428571428,Ubers
+kyogre,Drizzle,,,0,0,1,0,1,0,12.0,6.0,3,9000,14000,0.6666666666666666,0.14925373134328357,Ubers
+arceus,Multitype,,,0,0,1,1,1,1,11.0,-0.5,2,14400,14400,1.0,0.16666666666666666,Ubers
+ho-oh,Regenerator,Pressure,,0,0,0,1,1,0,16.0,14.0,3,9540,16324,1.1818181818181819,0.16176470588235295,Ubers
+necrozma-dusk,Prism Armor,,,0,0,1,1,1,0,24.0,14.0,3,12319,10573,1.3893805309734513,0.1661764705882353,Ubers
+eternatus,Pressure,,,1,0,1,1,1,0,13.5,11.0,2,13300,13300,0.5862068965517241,0.12318840579710146,Ubers
+lunala,Shadow Shield,,,0,0,1,1,0,0,8.0,12.5,3,12193,14659,0.8248175182481752,0.1661764705882353,Ubers
+calyrex-ice,As One (Glastrier),,,0,0,1,0,1,0,-7.0,15.5,4,15000,13000,1.9411764705882353,0.125,Ubers
+flutter-mane,Protosynthesis,,,0,0,1,0,1,0,22.0,16.5,1,3025,7425,0.4074074074074074,0.09649122807017543,Ubers
+arceus-ground,Multitype,,,1,0,1,1,1,1,9.0,7.0,2,14400,14400,1.0,0.16666666666666666,Ubers
+arceus-fairy,Multitype,,,1,0,1,1,1,0,15.0,6.0,2,14400,14400,1.0,0.16666666666666666,Ubers
+giratina-origin,Levitate,,,0,0,0,0,1,1,17.5,13.5,3,15000,15000,1.0,0.17647058823529413,Ubers
+deoxys-attack,Pressure,,,1,0,1,0,1,1,3.5,2.5,1,1000,1000,1.0,0.3,Ubers
+terapagos,Tera Shift,,,1,0,1,0,1,0,11.0,-0.5,4,7650,7650,1.0,0.14444444444444443,Ubers
+kyurem-black,Teravolt,,,0,0,1,0,0,0,-1.0,12.5,3,12500,11250,1.4166666666666667,0.17142857142857143,Ubers
+groudon,Drought,,,1,0,1,0,1,0,9.0,7.0,3,14000,9000,1.5,0.14925373134328357,Ubers
+arceus-water,Multitype,,,1,0,1,1,1,0,12.0,6.0,2,14400,14400,1.0,0.16666666666666666,Ubers
+regieleki,Transistor,,,0,1,0,0,1,1,13.0,0.0,1,4000,4000,1.0,0.1724137931034483,Ubers
+chien-pao,Sword of Ruin,,,0,0,1,0,0,1,-4.0,18.0,1,6400,5200,1.3333333333333333,0.15789473684210525,Ubers
+chi-yu,Beads of Ruin,,,0,0,1,0,1,0,15.5,18.0,3,4400,6600,0.5925925925925926,0.14035087719298245,Ubers
+rayquaza,Air Lock,,,0,0,1,0,0,1,9.0,12.5,3,9450,9450,1.0,0.22058823529411764,Ubers
+arceus-ghost,Multitype,,,0,0,1,1,1,1,18.0,5.0,2,14400,14400,1.0,0.16666666666666666,Ubers
+annihilape,Defiant,Vital Spirit,Inner Focus,0,1,1,0,1,0,14.5,19.5,3,8800,9900,2.3,0.09345794392523364,Ubers
+sneasler,Unburden,Poison Touch,Pressure,0,0,1,0,0,0,9.5,14.5,2,4800,6400,3.25,0.0784313725490196,Ubers
+giratina-altered,Pressure,Telepathy,,0,0,0,0,1,1,17.5,13.5,3,18000,18000,1.0,0.14705882352941177,Ubers
+lugia,Multiscale,Pressure,,0,0,1,1,1,0,5.5,12.5,2,13780,16324,1.0,0.1323529411764706,Ubers
+mewtwo,Pressure,Unnerve,,0,0,1,0,1,0,3.5,2.5,2,9540,9540,0.7142857142857143,0.16176470588235295,Ubers
+magearna,Soul-Heart,,,0,1,1,0,0,0,36.5,13.0,3,9200,9200,0.7307692307692307,0.15833333333333333,Ubers
+archaludon,Stamina,Sturdy,Stalwart,1,0,1,0,1,0,31.0,12.5,3,11700,5850,0.84,0.175,Ubers
+kyurem-white,Turboblaze,,,0,0,1,0,0,0,-1.0,12.5,3,11250,12500,0.7058823529411765,0.17142857142857143,Ubers
+urshifu-rapid-strike,Unseen Fist,,,0,1,1,0,0,1,9.0,19.5,3,10000,6000,2.0634920634920637,0.11454545454545455,Ubers
+palkia-origin,Pressure,Telepathy,,0,0,0,0,1,0,11.5,15.0,2,9000,10800,0.6666666666666666,0.14705882352941177,Ubers
+ursaluna-bloodmoon,Mind's Eye,,,0,0,1,1,0,1,11.0,16.5,4,13560,7345,0.5185185185185185,0.12612612612612611,Ubers
+landorus-incarnate,Sheer Force,Sand Force,,1,1,1,0,0,0,15.5,21.0,2,8010,7120,1.0869565217391304,0.19166666666666668,Ubers
+zekrom,Teravolt,,,0,1,1,0,0,0,11.0,13.5,3,12000,10000,1.25,0.17647058823529413,Ubers
+roaring-moon,Protosynthesis,,,0,1,1,1,1,0,7.0,11.0,2,7455,10605,2.5272727272727273,0.09322033898305085,Ubers
+ogerpon-hearthflame-mask,Mold Breaker,,,0,1,1,0,1,0,9.5,14.5,2,6720,7680,2.0,0.10909090909090909,Ubers
+palafin-hero,Zero to Hero,,,0,1,1,0,1,1,12.0,6.0,3,9700,8700,1.509433962264151,0.16307692307692306,Ubers
+arceus-electric,Multitype,,,0,0,1,1,1,1,13.0,0.0,2,14400,14400,1.0,0.16666666666666666,Ubers
+iron-bundle,Quark Drive,,,0,1,0,0,1,0,1.0,15.5,1,6384,3360,0.6451612903225806,0.14035087719298245,Ubers
+shaymin-sky,Serene Grace,,,0,0,0,1,0,0,0.5,15.5,2,7500,7500,0.8583333333333333,0.17166666666666666,Ubers
+urshifu-single-strike,Unseen Fist,,,0,1,1,0,0,1,7.5,17.0,3,10000,6000,2.0634920634920637,0.11454545454545455,Ubers
+zamazenta-crowned,Dauntless Shield,,,0,0,1,0,1,0,26.0,18.0,2,12880,12880,1.5,0.11428571428571428,Ubers
+volcarona,Flame Body,Swarm,,0,0,1,1,1,0,9.5,15.5,3,5525,8925,0.4444444444444444,0.10909090909090909,Ubers
+espathra,Speed Boost,Opportunist,Frisk,0,0,1,1,0,0,3.5,2.5,2,5700,5700,0.594059405940594,0.12474012474012475,Ubers
+arceus-flying,Multitype,,,0,0,1,1,1,1,11.5,6.0,2,14400,14400,1.0,0.16666666666666666,Ubers
+necrozma-dawn,Prism Armor,,,0,0,1,1,0,0,8.0,12.5,3,10573,12319,0.7197452229299363,0.1661764705882353,Ubers
+dialga,Pressure,Telepathy,,1,0,0,0,1,0,31.0,12.5,3,12000,10000,0.8,0.17647058823529413,Ubers
+palkia,Pressure,Telepathy,,0,0,0,0,1,0,11.5,15.0,3,9000,10800,0.8,0.17647058823529413,Ubers
+dialga-origin,Pressure,Telepathy,,1,0,0,0,1,0,31.0,12.5,3,12000,12000,0.6666666666666666,0.14705882352941177,Ubers
+gouging-fire,Protosynthesis,,,0,0,1,1,0,0,13.0,16.5,3,12705,9765,1.7692307692307692,0.11016949152542373,Ubers
+spectrier,Grim Neigh,,,0,0,1,0,1,0,18.0,5.0,2,6000,8000,0.4482758620689655,0.11206896551724138,Ubers
+baxcalibur,Thermal Exchange,Ice Body,,0,0,1,0,0,1,-1.0,12.5,3,10580,9890,1.9333333333333333,0.125,Ubers
+arceus-fire,Multitype,,,1,0,1,1,0,0,13.5,5.0,2,14400,14400,1.0,0.16666666666666666,Ubers
+solgaleo,Full Metal Body,,,0,0,0,1,1,0,24.0,14.0,3,14659,12193,1.2123893805309736,0.1661764705882353,Ubers
+reshiram,Turboblaze,,,0,0,1,0,0,0,13.0,16.5,3,10000,12000,0.8,0.17647058823529413,Ubers
+arceus-poison,Multitype,,,0,0,1,1,1,0,14.5,-2.5,2,14400,14400,1.0,0.16666666666666666,Ubers
+arceus-steel,Multitype,,,0,0,1,1,1,1,29.0,3.5,2,14400,14400,1.0,0.16666666666666666,Ubers
+arceus-dark,Multitype,,,1,0,1,1,1,0,9.0,4.5,2,14400,14400,1.0,0.16666666666666666,Ubers
+arceus-fighting,Multitype,,,0,0,1,1,1,0,6.0,-0.5,2,14400,14400,1.0,0.16666666666666666,Ubers
+arceus-psychic,Multitype,,,0,0,1,1,0,1,3.5,2.5,2,14400,14400,1.0,0.16666666666666666,Ubers
+arceus-grass,Multitype,,,0,0,1,1,1,0,1.5,-4.0,2,14400,14400,1.0,0.16666666666666666,Ubers
+zacian,Intrepid Sword,,,0,0,1,0,0,0,15.0,6.0,1,10580,10580,1.5,0.12121212121212122,Ubers
+arceus-ice,Multitype,,,0,0,1,1,1,0,-2.5,5.0,2,14400,14400,1.0,0.16666666666666666,Ubers
+vivillon,Compound Eyes,Shield Dust,Friend Guard,0,0,1,0,0,0,1.5,14.0,3,4000,4000,0.5777777777777777,0.12652068126520682,Ubers
+arceus-dragon,Multitype,,,0,0,1,1,1,1,8.5,3.5,2,14400,14400,1.0,0.16666666666666666,Ubers
+deoxys-normal,Pressure,,,1,0,1,0,1,1,3.5,2.5,1,2500,2500,1.0,0.25,Ubers
+arceus-rock,Multitype,,,1,0,1,1,1,0,1.5,7.5,2,14400,14400,1.0,0.16666666666666666,Ubers
+arceus-bug,Multitype,,,0,0,1,1,0,1,6.0,-4.0,2,14400,14400,1.0,0.16666666666666666,Ubers
+great-tusk,Protosynthesis,,,1,0,1,0,1,0,4.5,16.0,3,15065,6095,2.4716981132075473,0.09298245614035087,OU
+kingambit,Supreme Overlord,Defiant,Pressure,1,0,1,0,0,1,27.0,16.5,4,12000,8500,2.25,0.10909090909090909,OU
+gholdengo,Good as Gold,,,0,0,1,1,1,0,35.0,16.5,3,8265,7917,0.45112781954887216,0.10909090909090909,OU
+dragonite,Multiscale,Inner Focus,,0,0,1,1,1,1,9.0,12.5,3,8645,9100,1.34,0.16666666666666666,OU
+zamazenta,Dauntless Shield,,,0,0,1,0,1,0,6.0,-0.5,1,10580,10580,1.5,0.12121212121212122,OU
+iron-valiant,Quark Drive,,,0,0,1,0,1,1,9.0,17.0,2,6660,4440,1.0833333333333333,0.2033898305084746,OU
+ogerpon-wellspring-mask,Water Absorb,,,0,1,1,0,1,0,7.0,10.0,2,6720,7680,2.0,0.10909090909090909,OU
+raging-bolt,Protosynthesis,,,0,1,1,0,0,1,11.0,13.5,3,11375,11125,0.5328467153284672,0.12372881355932204,OU
+dragapult,Infiltrator,Clear Body,Cursed Body,0,1,0,0,1,1,17.5,13.5,1,6600,6600,1.2,0.16666666666666666,OU
+ting-lu,Vessel of Ruin,,,1,0,0,0,1,0,9.0,19.5,4,19375,12400,2.0,0.09649122807017543,OU
+kyurem,Pressure,,,0,0,1,0,0,0,-1.0,12.5,3,11250,11250,1.0,0.19696969696969696,OU
+pecharunt,Poison Puppeteer,,,0,1,1,1,1,0,18.0,15.0,3,14080,7744,1.0,0.14666666666666667,OU
+hatterene,Magic Bounce,Healer,,0,0,1,0,0,0,10.0,12.5,4,5415,5871,0.6617647058823529,0.17647058823529413,OU
+iron-treads,Quark Drive,,,1,1,0,0,1,0,27.0,19.5,2,10800,6300,1.5555555555555556,0.12631578947368421,OU
+slowking-galar,Regenerator,Curious Medicine,,0,1,0,0,1,0,9.5,12.5,4,7600,10450,0.5909090909090909,0.1326530612244898,OU
+corviknight,Pressure,Mirror Armor,Unnerve,0,1,1,1,1,0,35.0,13.0,3,10290,8330,1.6415094339622642,0.10707070707070707,OU
+glimmora,Toxic Debris,Corrosion,,1,0,0,0,1,0,6.0,13.0,3,7470,6723,0.4230769230769231,0.10476190476190476,OU
+cinderace,Libero,Blaze,,0,1,1,0,1,1,13.5,5.0,2,6000,6000,1.7846153846153847,0.12264150943396226,OU
+landorus-therian,Intimidate,,,1,1,0,0,1,0,15.5,21.0,3,8010,7120,1.380952380952381,0.175,OU
+samurott-hisui,Sharpness,Torrent,,1,1,1,0,1,1,12.0,16.5,3,7200,5850,1.08,0.1893939393939394,OU
+gliscor,Poison Heal,Hyper Cutter,,1,1,1,0,1,0,15.5,21.0,3,9375,5625,2.111111111111111,0.08823529411764706,OU
+darkrai,Bad Dreams,,,0,0,1,0,1,1,9.0,4.5,2,6300,6300,0.6666666666666666,0.15,OU
+alomomola,Regenerator,Healer,,0,1,0,1,0,1,12.0,6.0,3,13200,7425,1.875,0.0851063829787234,OU
+deoxys-speed,Pressure,,,1,0,1,0,1,0,3.5,2.5,1,4500,4500,1.0,0.15833333333333333,OU
+iron-moth,Quark Drive,,,1,0,0,1,0,0,13.0,14.0,2,4800,8800,0.5,0.12280701754385964,OU
+ceruledge,Weak Armor,Flash Fire,,0,0,1,0,1,1,21.0,18.0,3,6000,7500,2.0833333333333335,0.11428571428571428,OU
+zapdos,Static,Pressure,,0,1,0,1,1,0,20.0,14.0,3,7650,8100,0.72,0.15517241379310345,OU
+tornadus-therian,Regenerator,,,0,1,1,0,1,0,11.5,6.0,2,6320,7110,0.9090909090909091,0.1724137931034483,OU
+rillaboom,Grassy Surge,Overgrow,,0,1,1,0,1,0,1.5,-4.0,3,9000,7000,2.0833333333333335,0.11320754716981132,OU
+walking-wake,Protosynthesis,,,0,1,0,0,1,0,11.5,15.0,2,9009,8217,0.664,0.14067796610169492,OU
+moltres,Flame Body,Pressure,,0,1,0,1,1,0,16.0,14.0,3,8100,7650,0.8,0.1724137931034483,OU
+garganacl,Purifying Salt,Sturdy,Clear Body,1,0,1,1,0,0,1.5,7.5,4,13000,9000,2.2222222222222223,0.09,OU
+enamorus-incarnate,Contrary,Cute Charm,,0,0,1,0,0,0,14.5,14.0,2,5180,5920,0.8518518518518519,0.19827586206896552,OU
+weezing-galar,Neutralizing Gas,Levitate,Misty Surge,1,0,0,0,1,0,18.5,11.5,4,7800,4550,1.0588235294117647,0.17346938775510204,OU
+clefable,Magic Guard,Unaware,Cute Charm,1,0,1,1,1,0,15.0,6.0,4,6935,8550,0.7368421052631579,0.14492753623188406,OU
+primarina,Torrent,Liquid Voice,,0,1,1,0,0,1,19.0,18.0,4,5920,9280,0.5873015873015873,0.13962264150943396,OU
+tyranitar,Sand Stream,Unnerve,,1,0,0,0,1,0,0.0,15.5,3,11000,10000,1.4105263157894736,0.15833333333333333,OU
+heatran,Flash Fire,Flame Body,,1,0,0,0,1,0,26.5,13.0,3,9646,9646,0.6923076923076923,0.15,OU
+iron-crown,Quark Drive,,,0,1,1,0,0,0,24.0,14.0,3,9000,9720,0.5901639344262295,0.12203389830508475,OU
+ogerpon,Defiant,,,1,1,1,1,1,0,1.5,-4.0,2,6720,7680,2.0,0.10909090909090909,OU
+dondozo,Unaware,Water Veil,Oblivious,0,0,0,0,0,0,12.0,6.0,4,17250,9750,1.5384615384615385,0.12264150943396226,OU
+excadrill,Mold Breaker,Sand Rush,Sand Force,1,0,1,0,1,0,27.0,19.5,3,6600,7150,2.7,0.0984251968503937,UU
+latios,Levitate,,,0,1,1,1,1,0,3.0,11.0,2,6400,8800,0.6923076923076923,0.15,UU
+skarmory,Sturdy,Weak Armor,Keen Eye,1,0,1,1,1,0,35.0,13.0,3,9100,4550,2.0,0.08602150537634409,UU
+lokix,Tinted Lens,Swarm,,0,1,1,0,1,1,7.0,10.0,3,5538,3905,1.9615384615384615,0.11555555555555555,UU
+greninja,Battle Bond,Protean,Torrent,0,1,0,0,0,0,12.0,16.5,2,4824,5112,0.9223300970873787,0.1792452830188679,UU
+mandibuzz,Overcoat,Big Pecks,Weak Armor,0,1,0,1,1,0,13.5,16.5,3,11550,10450,1.1818181818181819,0.10784313725490197,UU
+scizor,Technician,Swarm,,0,1,1,0,1,1,27.0,13.0,3,7000,5600,2.3636363636363638,0.11,UU
+thundurus-therian,Volt Absorb,,,0,1,1,0,1,0,20.0,14.0,2,5530,6320,0.7241379310344828,0.1810344827586207,UU
+arcanine-hisui,Rock Head,Intimidate,Flash Fire,1,0,0,1,1,1,3.5,18.0,3,7600,7600,1.2105263157894737,0.17117117117117117,UU
+donphan,Sturdy,,,1,0,0,0,1,1,9.0,7.0,4,10800,5400,2.0,0.12,UU
+slowking,Regenerator,Oblivious,,0,1,0,1,1,0,6.5,16.5,4,7600,10450,0.75,0.15306122448979592,UU
+weavile,Pressure,Pickpocket,,0,0,1,0,1,1,-4.0,18.0,2,4550,5950,2.6666666666666665,0.08823529411764706,UU
+skeledirge,Unaware,Blaze,,0,0,0,1,1,0,21.0,18.0,3,10400,7800,0.6818181818181818,0.14150943396226415,UU
+tinkaton,Pickpocket,Mold Breaker,Own Tempo,1,0,1,0,1,0,36.5,13.0,3,6545,8925,1.0714285714285714,0.1383399209486166,UU
+clodsire,Water Absorb,Unaware,Poison Point,1,0,0,1,1,0,14.0,19.5,4,7800,13000,1.6666666666666667,0.10465116279069768,UU
+hydrapple,Regenerator,Sticky Hold,Supersweet Syrup,0,0,1,1,0,0,-4.0,12.5,4,11660,8480,0.6666666666666666,0.14814814814814814,UU
+conkeldurr,Guts,Iron Fist,Sheer Force,0,0,1,0,1,1,6.0,-0.5,4,9975,6825,2.5454545454545454,0.10891089108910891,UU
+sinistcha,Heatproof,Hospitality,,0,0,1,1,0,0,12.5,16.5,3,7526,5680,0.49586776859504134,0.11811023622047244,UU
+slither-wing,Protosynthesis,,,0,1,1,1,0,0,2.5,9.5,3,6715,8925,1.588235294117647,0.14912280701754385,UU
+keldeo-ordinary,Justified,,,0,1,1,0,1,1,9.0,19.5,2,8190,8190,0.5581395348837209,0.12413793103448276,UU
+sandy-shocks,Protosynthesis,,,1,1,0,0,0,0,10.5,17.0,2,8245,7225,0.6694214876033058,0.14210526315789473,UU
+zapdos-galar,Defiant,,,0,1,1,0,1,0,8.0,21.0,3,8100,8100,1.4705882352941178,0.14655172413793102,UU
+manaphy,Hydration,,,0,0,0,0,0,0,12.0,6.0,3,10000,10000,1.0,0.16666666666666666,UU
+rotom-wash,Levitate,,,0,1,0,0,1,0,15.5,11.5,3,5350,5350,0.6190476190476191,0.125,UU
+hippowdon,Sand Stream,Sand Force,,1,0,0,1,1,0,9.0,7.0,4,12744,7776,1.6470588235294117,0.1295238095238095,UU
+metagross,Clear Body,,,1,0,1,0,1,1,24.0,14.0,3,10400,7200,1.4210526315789473,0.15833333333333333,UU
+azumarill,Huge Power,Sap Sipper,Thick Fat,0,0,0,0,1,1,19.0,18.0,4,8000,8000,0.8333333333333334,0.11904761904761904,UU
+fezandipiti,Toxic Chain,Technician,,0,1,1,1,1,0,18.5,11.5,3,7216,11000,1.3,0.12612612612612611,UU
+revavroom,Filter,Overcoat,,1,1,0,0,1,0,28.0,12.5,3,7200,5360,2.2037037037037037,0.108,UU
+toxapex,Regenerator,Merciless,Limber,1,0,0,1,1,0,18.5,16.5,4,7600,7100,1.1886792452830188,0.10707070707070707,UU
+iron-jugulis,Quark Drive,,,0,1,0,0,1,0,13.5,16.5,2,8084,7520,0.6557377049180327,0.14035087719298245,UU
+cobalion,Justified,,,1,1,1,0,1,0,26.0,18.0,2,11739,6552,1.0,0.15517241379310345,UU
+mew,Synchronize,,,1,0,0,0,1,0,3.5,2.5,3,10000,10000,1.0,0.16666666666666666,UU
+hydreigon,Levitate,,,0,1,1,0,0,0,7.0,11.0,3,8280,8280,0.84,0.175,UU
+talonflame,Flame Body,Gale Wings,,0,1,0,1,1,0,16.0,14.0,2,5538,5382,1.0945945945945945,0.14829659318637275,UU
+mimikyu-disguised,Disguise,,,0,0,1,0,1,1,22.0,16.5,3,4400,5775,1.8,0.10504201680672269,RU
+krookodile,Moxie,Intimidate,,1,0,1,0,1,0,9.0,19.5,3,7600,6650,1.8,0.1252408477842004,RU
+chesnaught,Bulletproof,Overgrow,,1,0,1,1,1,0,-2.0,12.0,3,10736,6600,1.445945945945946,0.13962264150943396,RU
+bisharp,Defiant,Inner Focus,Pressure,1,0,1,0,0,1,27.0,16.5,3,6500,4550,2.0833333333333335,0.12244897959183673,RU
+gengar,Cursed Body,,,1,0,1,0,1,0,18.0,15.0,2,3600,4500,0.5,0.13,RU
+armarouge,Weak Armor,Flash Fire,,0,0,1,0,0,0,9.0,18.0,3,8500,6800,0.48,0.11428571428571428,RU
+slowbro,Regenerator,Oblivious,,0,0,1,1,1,0,6.5,16.5,4,10450,7600,0.75,0.15306122448979592,RU
+basculegion-female,Adaptability,Swift Swim,Mold Breaker,0,1,1,0,0,1,21.0,16.5,3,7800,9000,0.92,0.17358490566037735,RU
+cyclizar,Regenerator,Shed Skin,,0,1,0,0,1,0,10.5,8.0,2,4550,4550,1.1176470588235294,0.16966067864271456,RU
+noivern,Infiltrator,Frisk,,0,1,0,1,1,0,9.0,12.5,2,6800,6800,0.7216494845360825,0.1308411214953271,RU
+goodra-hisui,Sap Sipper,Gooey,Shell Armor,0,0,0,0,1,0,31.0,12.5,4,8000,12000,0.9090909090909091,0.16666666666666666,RU
+entei,Inner Focus,Pressure,,0,0,0,0,0,1,13.5,5.0,3,9775,8625,1.2777777777777777,0.15517241379310345,RU
+kleavor,Sharpness,Swarm,Sheer Force,1,1,1,0,0,0,3.5,14.5,3,6650,4900,3.0,0.09,RU
+ribombee,Shield Dust,Sweet Veil,Honey Gather,1,1,1,0,1,0,10.5,9.0,2,3600,4200,0.5789473684210527,0.11853448275862069,RU
+torterra,Overgrow,Shell Armor,,0,0,1,0,0,0,0.5,12.0,4,9975,8075,1.4533333333333334,0.14285714285714285,RU
+crawdaunt,Adaptability,Hyper Cutter,,0,0,1,0,1,1,12.0,16.5,4,5355,3465,1.3333333333333333,0.19230769230769232,RU
+jirachi,Serene Grace,,,1,1,0,1,1,0,24.0,14.0,3,10000,10000,1.0,0.16666666666666666,RU
+forretress,Sturdy,Overcoat,,1,1,0,0,1,0,27.0,13.0,4,10500,4500,1.5,0.12903225806451613,RU
+muk-alola,Poison Touch,Gluttony,Power of Alchemy,0,0,0,0,1,1,21.0,15.0,4,7875,10500,1.6153846153846154,0.13,RU
+mienshao,Regenerator,Reckless,Inner Focus,0,1,1,0,1,0,6.0,-0.5,2,3900,3900,1.3157894736842106,0.18627450980392157,RU
+gallade,Sharpness,Justified,Steadfast,0,0,1,0,1,1,3.5,17.0,3,4420,7820,1.9230769230769231,0.12548262548262548,RU
+quagsire,Unaware,Water Absorb,Damp,1,0,0,1,1,0,16.0,15.5,4,8075,6175,1.3076923076923077,0.1511627906976744,RU
+empoleon,Competitive,Torrent,,1,1,0,1,1,1,31.0,14.0,4,7392,8484,0.7747747747747747,0.16226415094339622,RU
+magnezone,Magnet Pull,Analytic,Sturdy,0,1,1,0,0,0,28.5,14.0,4,8050,6300,0.5384615384615384,0.1308411214953271,RU
+diancie,Clear Body,,,1,0,0,0,1,0,8.0,17.0,4,7500,7500,1.0,0.16666666666666666,RU
+terrakion,Justified,,,1,0,1,0,1,0,-0.5,21.0,2,8190,8190,1.7916666666666667,0.12413793103448276,RU
+breloom,Poison Heal,Technician,Effect Spore,0,0,1,0,0,1,-2.0,12.0,3,4800,3600,2.1666666666666665,0.13043478260869565,RU
+porygon-z,Download,Adaptability,Analytic,0,0,1,1,1,0,11.0,-0.5,3,5950,6375,0.5925925925925926,0.14953271028037382,RU
+politoed,Drizzle,Water Absorb,,0,0,0,0,1,0,12.0,6.0,3,6750,9000,0.8333333333333334,0.15,RU
+gastrodon,Storm Drain,Sticky Hold,Sand Force,1,0,0,1,0,0,16.0,15.5,4,7548,9102,0.9021739130434783,0.17473684210526316,RU
+gardevoir,Trace,Synchronize,,0,0,0,0,1,0,10.0,12.5,3,4420,7820,0.52,0.12548262548262548,RU
+blissey,Natural Cure,Serene Grace,Healer,1,0,1,1,1,0,11.0,-0.5,4,2550,34425,0.13333333333333333,0.018518518518518517,RU
+maushold-family-of-four,Technician,Friend Guard,,0,1,1,0,1,0,11.0,-0.5,2,5180,5550,1.1538461538461537,0.13829787234042554,RU
+suicune,Pressure,Inner Focus,,0,0,1,0,1,0,12.0,6.0,3,11500,11500,0.8333333333333334,0.12931034482758622,RU
+toxtricity-amped,Punk Rock,Technician,,1,1,0,0,1,0,17.0,12.5,3,5250,5250,0.8596491228070176,0.1952191235059761,RU
+registeel,Clear Body,Light Metal,,1,0,1,0,1,0,29.0,3.5,4,12000,12000,1.0,0.12931034482758622,RU
+feraligatr,Sheer Force,Torrent,,0,0,1,0,0,1,12.0,6.0,3,8500,7055,1.3291139240506329,0.1490566037735849,RU
+barraskewda,Swift Swim,,,0,1,0,0,0,1,12.0,6.0,1,3660,3050,2.05,0.12244897959183673,RU
+umbreon,Synchronize,Inner Focus,,0,0,1,1,1,0,9.0,4.5,3,10450,12350,1.0833333333333333,0.11428571428571428,RU
+necrozma,Prism Armor,,,1,0,1,0,1,0,3.5,2.5,3,9797,8633,0.84251968503937,0.17833333333333334,RU
+tsareena,Queenly Majesty,Leaf Guard,Sweet Veil,0,1,0,1,1,0,1.5,-4.0,3,7056,7056,2.4,0.09803921568627451,NU
+duraludon,Light Metal,Heavy Metal,Stalwart,1,0,1,0,1,0,31.0,12.5,3,8050,3500,0.7916666666666666,0.17757009345794392,NU
+flygon,Levitate,,,1,1,1,0,0,0,6.5,18.0,3,6400,6400,1.25,0.15384615384615385,NU
+incineroar,Intimidate,Blaze,,0,1,1,0,1,0,15.5,18.0,4,8550,8550,1.4375,0.1509433962264151,NU
+swampert,Torrent,Damp,,1,1,1,0,1,0,16.0,15.5,4,9000,9000,1.2941176470588236,0.1588785046728972,NU
+bellibolt,Electromorphosis,Static,Damp,0,1,0,1,1,0,13.0,0.0,4,9919,9047,0.6213592233009708,0.1292929292929293,NU
+vaporeon,Water Absorb,Hydration,,0,1,1,1,1,0,12.0,6.0,3,7800,12350,0.5909090909090909,0.12380952380952381,NU
+munkidori,Toxic Chain,Frisk,,0,1,1,0,1,0,9.5,12.5,2,5808,7920,0.5769230769230769,0.13513513513513514,NU
+tauros-paldea-aqua-breed,Intimidate,Cud Chew,,0,0,1,0,0,1,9.0,19.5,3,7875,5250,3.6666666666666665,0.061224489795918366,NU
+overqwil,Intimidate,Swift Swim,Poison Point,1,0,1,0,0,1,21.0,15.0,3,8075,5525,1.7692307692307692,0.12745098039215685,NU
+gligar,Immunity,Hyper Cutter,,1,1,1,0,1,0,15.5,21.0,3,6825,4225,2.142857142857143,0.08139534883720931,NU
+cinccino,Technician,Skill Link,Cute Charm,0,1,1,0,1,0,11.0,-0.5,2,4500,4500,1.4615384615384615,0.13829787234042554,NU
+chandelure,Flash Fire,Flame Body,Infiltrator,0,0,1,0,1,0,21.0,18.0,3,5400,5400,0.3793103448275862,0.10576923076923077,NU
+basculegion-male,Adaptability,Swift Swim,Mold Breaker,0,1,0,0,0,1,21.0,16.5,3,7800,9000,1.4,0.1509433962264151,NU
+bronzong,Levitate,Heatproof,Heavy Metal,1,0,1,0,1,0,24.0,14.0,4,7772,7772,1.1265822784810127,0.158,NU
+grafaiai,Unburden,Prankster,Poison Touch,0,1,1,0,1,0,17.5,4.5,2,4095,4536,1.1875,0.16494845360824742,NU
+flamigo,Scrappy,,,0,1,1,1,0,0,8.0,21.0,3,6068,5248,1.5333333333333334,0.15,NU
+tornadus-incarnate,Prankster,Defiant,,0,1,1,0,1,0,11.5,6.0,2,5530,6320,0.92,0.19827586206896552,NU
+brambleghast,Wind Rider,Infiltrator,,1,0,0,1,1,1,12.5,16.5,3,3850,3850,1.4375,0.16666666666666666,NU
+staraptor,Reckless,Intimidate,,0,1,0,0,0,0,14.5,8.5,3,5950,5100,2.4,0.10309278350515463,NU
+copperajah,Sheer Force,Heavy Metal,,1,0,0,0,1,0,29.0,3.5,4,8418,8418,1.625,0.16,NU
+articuno-galar,Competitive,,,0,1,1,1,0,0,5.5,12.5,3,7650,9000,0.68,0.14655172413793102,NU
+infernape,Blaze,Iron Fist,,1,1,0,0,1,1,11.0,19.5,2,5396,5396,1.0,0.1947565543071161,NU
+espeon,Magic Bounce,Synchronize,,0,0,1,1,1,0,3.5,2.5,2,3900,6175,0.5,0.12380952380952381,NU
+raikou,Pressure,Inner Focus,,0,1,1,0,0,0,13.0,0.0,2,6750,9000,0.7391304347826086,0.14655172413793102,NU
+dudunsparce-two-segment,Rattled,Serene Grace,,1,0,1,1,1,0,11.0,-0.5,4,10000,9375,1.1764705882352942,0.16346153846153846,NU
+scyther,Technician,Steadfast,Swarm,0,1,1,0,1,0,1.5,14.0,2,5600,5600,2.0,0.11,NU
+klefki,Prankster,Magician,,1,0,1,0,1,0,36.5,13.0,3,5187,4959,1.0,0.1702127659574468,NU
+reuniclus,Magic Guard,Regenerator,,0,0,1,1,1,0,3.5,2.5,4,8250,9350,0.52,0.1326530612244898,NU
+arcanine,Intimidate,Flash Fire,Justified,0,0,0,1,1,1,13.5,5.0,3,7200,7200,1.1,0.18018018018018017,NU
+sylveon,Pixilate,Cute Charm,,0,0,1,1,1,0,15.0,6.0,4,6175,12350,0.5909090909090909,0.12380952380952381,NU
+scream-tail,Protosynthesis,,,1,0,1,1,1,0,10.0,12.5,2,11385,13225,1.0,0.11403508771929824,NU
+braviary,Defiant,Sheer Force,Keen Eye,0,1,1,1,1,0,14.5,8.5,3,7500,7500,2.1578947368421053,0.11176470588235295,NU
+chansey,Natural Cure,Serene Grace,Healer,1,0,1,1,1,0,11.0,-0.5,4,1250,26250,0.14285714285714285,0.011111111111111112,NU
+houndstone,Fluffy,Sand Rush,,0,0,0,0,1,1,18.0,5.0,3,7200,6984,2.02,0.10245901639344263,NU
+rhyperior,Solid Rock,Lightning Rod,Reckless,1,0,1,0,0,0,-3.0,21.0,4,14950,6325,2.5454545454545454,0.102803738317757,NU
+kilowattrel,Volt Absorb,Competitive,Wind Power,0,1,0,1,0,0,20.0,14.0,2,4200,4200,0.6666666666666666,0.14285714285714285,NU
+tentacruel,Liquid Ooze,Clear Body,Rain Dish,1,1,0,0,1,0,18.5,16.5,3,5200,9600,0.875,0.13592233009708737,NU
+araquanid,Water Bubble,Water Absorb,,1,0,0,0,0,0,11.0,18.0,4,6256,8976,1.4,0.11013215859030837,NU
+avalugg,Sturdy,Ice Body,Own Tempo,0,0,0,1,1,0,-2.5,5.0,4,17480,4370,2.659090909090909,0.08560311284046693,NU
+thwackey,Grassy Surge,,,0,1,1,1,1,0,1.5,-4.0,3,4900,4200,1.5454545454545454,0.13095238095238096,NU
+uxie,Levitate,,,1,1,0,0,1,0,3.5,2.5,3,9750,9750,1.0,0.12931034482758622,NU
+altaria,Natural Cure,Cloud Nine,,0,0,1,1,1,0,9.0,12.5,3,6750,7875,1.0,0.14285714285714285,NU
+meloetta-aria,Serene Grace,,,0,0,1,0,1,0,10.0,9.5,3,7700,12800,0.6015625,0.12833333333333333,NU
+vileplume,Effect Spore,Chlorophyll,,0,0,0,1,1,0,8.5,11.5,4,6375,6750,0.7272727272727273,0.16326530612244897,NU
+goodra,Sap Sipper,Gooey,Hydration,0,0,0,0,1,0,8.5,3.5,3,6300,13500,0.9090909090909091,0.16666666666666666,NU
+sandslash-alola,Slush Rush,,,1,0,1,0,1,0,15.0,12.0,3,9000,4875,4.0,0.05555555555555555,PU
+milotic,Marvel Scale,Competitive,Cute Charm,0,1,0,1,1,0,12.0,6.0,3,7505,11875,0.6,0.1111111111111111,PU
+florges,Flower Veil,Symbiosis,,0,0,1,1,1,0,15.0,6.0,3,5304,12012,0.5803571428571429,0.11775362318840579,PU
+hoopa,Magician,,,0,0,1,0,1,0,8.0,12.5,3,4800,10400,0.7333333333333333,0.18333333333333332,PU
+pawmot,Volt Absorb,Iron Fist,Natural Cure,0,1,0,1,1,1,11.0,19.5,2,4900,4200,1.6428571428571428,0.14285714285714285,PU
+coalossal,Flame Body,Steam Engine,Flash Fire,1,0,0,0,1,0,3.5,18.0,4,13200,9900,1.0,0.1568627450980392,PU
+bruxish,Strong Jaw,Dazzling,Wonder Skin,0,1,1,0,0,1,6.5,16.5,3,4760,4760,1.5,0.14736842105263157,PU
+qwilfish-hisui,Intimidate,Poison Point,Swift Swim,1,0,1,0,1,0,21.0,15.0,3,5525,3575,1.7272727272727273,0.125,PU
+mudsdale,Stamina,Inner Focus,Own Tempo,1,0,1,0,1,0,9.0,7.0,4,10000,8500,2.272727272727273,0.11,PU
+hariyama,Thick Fat,Guts,Sheer Force,0,0,1,0,1,1,6.0,-0.5,4,8640,8640,3.0,0.08438818565400844,PU
+golurk,No Guard,Iron Fist,Klutz,1,0,0,0,1,0,16.5,19.5,4,7120,7120,2.2545454545454544,0.11387163561076605,PU
+decidueye-hisui,Scrappy,Overgrow,,0,1,1,1,1,1,-2.0,12.0,4,7040,8360,1.1789473684210525,0.1792452830188679,PU
+tauros-paldea-blaze-breed,Intimidate,Cud Chew,Anger Point,0,0,1,0,0,0,11.0,19.5,3,7875,5250,3.6666666666666665,0.061224489795918366,PU
+bombirdier,Big Pecks,Rocky Payload,Keen Eye,1,1,0,1,1,1,13.5,16.5,3,5950,5950,1.7166666666666666,0.12371134020618557,PU
+floatzel,Water Veil,Swift Swim,,0,1,1,0,1,1,12.0,6.0,2,4675,4250,1.2352941176470589,0.1717171717171717,PU
+rhydon,Lightning Rod,Rock Head,Reckless,1,0,1,0,1,0,-3.0,21.0,4,12600,4725,2.888888888888889,0.09278350515463918,PU
+cramorant,Gulp Missile,,,0,0,0,1,1,0,15.0,18.0,3,3850,6650,1.0,0.17894736842105263,PU
+rotom-heat,Levitate,,,0,1,1,0,1,0,14.5,15.5,3,5350,5350,0.6190476190476191,0.125,PU
+salazzle,Corrosion,Oblivious,,0,0,1,0,1,0,13.0,14.0,2,4080,4080,0.5765765765765766,0.13333333333333333,PU
+lanturn,Volt Absorb,Water Absorb,,0,1,0,0,1,0,15.5,11.5,3,7250,9500,0.7631578947368421,0.12608695652173912,PU
+ambipom,Technician,Skill Link,Pickup,0,1,0,0,1,0,11.0,-0.5,2,4950,4950,1.6666666666666667,0.12448132780082988,PU
+zoroark,Illusion,,,0,1,1,0,1,1,9.0,4.5,2,3600,3600,0.875,0.20588235294117646,PU
+amoonguss,Regenerator,Effect Spore,,0,0,0,1,1,0,8.5,11.5,4,7980,9120,1.0,0.18318965517241378,PU
+tatsugiri-curly,Storm Drain,Commander,,0,0,1,0,1,0,11.5,15.0,3,4080,6460,0.4166666666666667,0.10526315789473684,PU
+avalugg-hisui,Sturdy,Strong Jaw,Ice Body,1,0,0,1,1,0,-12.0,17.0,4,17480,3420,3.735294117647059,0.06614785992217899,PU
+porygon2,Download,Analytic,Trace,0,0,0,1,1,0,11.0,-0.5,4,7650,8075,0.7619047619047619,0.1553398058252427,PU
+galvantula,Compound Eyes,Swarm,Unnerve,1,1,0,0,1,0,12.0,16.5,2,4200,4200,0.7938144329896907,0.163135593220339,PU
+braviary-hisui,Sheer Force,Tinted Lens,Keen Eye,0,0,1,1,0,1,5.5,12.5,3,7700,7700,0.7410714285714286,0.1627450980392157,PU
+typhlosion-hisui,Blaze,Frisk,,0,0,0,0,0,0,21.0,18.0,3,5694,6205,0.7058823529411765,0.15730337078651685,PU
+palossand,Water Compaction,,,1,0,0,1,1,0,16.5,19.5,4,9350,6375,0.75,0.15625,PU
+grimmsnarl,Prankster,Pickpocket,Frisk,0,1,1,0,1,1,15.5,16.5,4,6175,7125,1.263157894736842,0.18627450980392157,PU
+mismagius,Levitate,,,0,0,1,0,1,0,18.0,5.0,2,3600,6300,0.5714285714285714,0.12121212121212122,PU
+qwilfish,Intimidate,Swift Swim,Poison Point,1,1,1,0,0,1,18.5,16.5,3,5525,3575,1.7272727272727273,0.125,PU
+shaymin-land,Natural Cure,,,0,0,1,1,0,0,1.5,-4.0,3,10000,10000,1.0,0.16666666666666666,PU
+rotom-mow,Levitate,,,0,1,1,0,1,0,6.0,10.0,3,5350,5350,0.6190476190476191,0.125,PU
+ninetales-alola,Snow Warning,,,0,0,1,0,1,0,3.0,13.0,2,5475,7300,0.8271604938271605,0.13267326732673268,PU
+hitmonlee,Unburden,Limber,Reckless,0,0,1,0,1,0,6.0,-0.5,3,2650,5500,3.4285714285714284,0.07692307692307693,PU
+delphox,Blaze,Magician,,0,0,1,0,1,0,9.0,18.0,2,5400,7500,0.6052631578947368,0.12921348314606743,PU
+venusaur,Chlorophyll,Overgrow,,0,0,0,1,1,0,8.5,11.5,3,6640,8000,0.82,0.15619047619047619,PU
+snorlax,Thick Fat,Immunity,Gluttony,0,0,0,0,0,0,11.0,-0.5,4,10400,17600,1.6923076923076923,0.12037037037037036,ZU
+passimian,Defiant,Receiver,,0,1,1,0,1,0,6.0,-0.5,3,9000,6000,3.0,0.08163265306122448,ZU
+honchkrow,Moxie,Super Luck,,0,1,0,0,1,1,13.5,16.5,3,5200,5200,1.1904761904761905,0.2079207920792079,ZU
+skuntank,Aftermath,Stench,,1,0,0,0,1,1,21.0,15.0,3,6901,6283,1.3098591549295775,0.14822546972860126,ZU
+jolteon,Volt Absorb,Quick Feet,,0,1,1,0,0,0,13.0,0.0,2,3900,6175,0.5909090909090909,0.12380952380952381,ZU
+clawitzer,Mega Launcher,,,0,1,0,0,0,0,12.0,6.0,4,6248,6319,0.6083333333333333,0.146,ZU
+whimsicott,Prankster,Infiltrator,Chlorophyll,0,1,0,1,1,0,7.0,10.5,2,5100,4500,0.8701298701298701,0.13958333333333334,ZU
+brute-bonnet,Protosynthesis,,,0,0,0,1,0,1,0.0,16.5,4,10989,10989,1.6075949367088607,0.13859649122807016,ZU
+electrode-hisui,Aftermath,Soundproof,Static,0,1,0,1,1,0,6.0,10.0,1,4200,4800,0.625,0.10204081632653061,ZU
+lycanroc-midday,Steadfast,Keen Eye,Sand Rush,1,0,1,0,1,0,1.5,7.5,2,4875,4875,2.090909090909091,0.11293634496919917,ZU
+drifblim,Unburden,Aftermath,Flare Boost,0,0,1,1,1,0,16.5,16.5,3,6600,8100,0.8888888888888888,0.1606425702811245,ZU
+indeedee-female,Psychic Surge,,,0,0,0,0,0,0,10.0,9.5,3,4550,7350,0.5789473684210527,0.11578947368421053,ZU
+magneton,Analytic,Magnet Pull,Sturdy,0,1,0,0,1,0,28.5,14.0,3,4750,3500,0.5,0.12903225806451613,ZU
+kingdra,Sniper,Swift Swim,Damp,0,0,1,0,0,0,11.5,15.0,3,7125,7125,1.0,0.17592592592592593,ZU
+sceptile,Unburden,Overgrow,,0,0,1,0,0,0,1.5,-4.0,2,4550,5950,0.8095238095238095,0.16037735849056603,ZU
+emboar,Reckless,Blaze,,0,0,1,0,1,1,11.0,19.5,3,7150,7150,1.23,0.1893939393939394,ZU
+virizion,Justified,,,0,0,1,1,0,0,-2.0,12.0,2,6552,11739,1.0,0.15517241379310345,ZU
+gurdurr,Guts,Iron Fist,Sheer Force,0,0,1,0,1,1,6.0,-0.5,4,7225,4250,2.625,0.09876543209876543,ZU
+malamar,Contrary,Infiltrator,,0,0,0,0,1,0,2.5,12.5,3,7568,6450,1.3529411764705883,0.14107883817427386,ZU
+persian-alola,Fur Coat,Technician,,0,1,0,0,1,0,9.0,4.5,2,3900,4225,0.8,0.13636363636363635,ZU
+mesprit,Levitate,,,1,1,0,0,1,0,3.5,2.5,3,8400,8400,1.0,0.1810344827586207,ZU
+carbink,Clear Body,Sturdy,,1,0,1,0,0,0,8.0,17.0,4,7500,7500,1.0,0.1,ZU
+toedscruel,Mycelium Might,,,1,0,0,1,1,0,0.5,12.0,3,5200,9600,0.875,0.13592233009708737,ZU
+sandaconda,Shed Skin,Sand Spit,,1,0,0,0,1,0,9.0,7.0,3,9000,5040,1.646153846153846,0.12745098039215685,ZU
+alcremie,Aroma Veil,Sweet Veil,,0,0,1,1,0,0,15.0,6.0,3,4875,7865,0.5454545454545454,0.12121212121212122,ZU
+basculin-red-striped,Adaptability,Rock Head,Reckless,0,1,0,0,0,1,12.0,6.0,3,4550,3850,1.15,0.17391304347826086,ZU
+probopass,Sturdy,Magnet Pull,Sand Force,1,1,1,0,1,0,16.0,15.5,4,8700,9000,0.7333333333333333,0.10476190476190476,ZU
+medicham,Pure Power,,,0,0,0,0,1,1,3.5,17.0,3,4500,4500,1.0,0.14634146341463414,ZU
+orthworm,Earth Eater,,,1,0,1,0,0,0,29.0,3.5,3,10150,3850,1.4166666666666667,0.125,ZU
+smeargle,Technician,Own Tempo,,1,0,1,0,1,0,11.0,-0.5,3,1925,2475,1.0,0.08,ZU
+regirock,Clear Body,Sturdy,,1,0,1,0,1,0,1.5,7.5,4,16000,8000,2.0,0.08620689655172414,ZU
+tauros,Sheer Force,Intimidate,,0,0,0,0,0,0,11.0,-0.5,2,7125,5250,2.5,0.08163265306122448,ZU
+froslass,Cursed Body,,,1,0,0,0,1,0,10.0,18.0,2,4900,4900,1.0,0.16666666666666666,ZU
+primeape,Defiant,Vital Spirit,,1,1,1,0,1,0,6.0,-0.5,3,3900,4550,1.75,0.13186813186813187,ZU
+sandslash,Sand Rush,,,1,0,1,0,1,0,9.0,7.0,3,8250,4125,2.2222222222222223,0.1,ZU
+bellossom,Chlorophyll,Healer,,0,0,1,1,0,0,1.5,-4.0,4,7125,7500,0.8888888888888888,0.16326530612244897,ZU
+hattrem,Magic Bounce,,,0,0,1,0,0,0,3.5,2.5,4,3705,4161,0.46511627906976744,0.10810810810810811,ZU
+scovillain,Chlorophyll,,,0,0,0,0,0,0,9.5,14.5,3,4225,4225,1.0,0.2222222222222222,ZU
+hitmontop,Technician,Intimidate,,0,0,0,0,1,1,6.0,-0.5,3,4750,5500,2.7142857142857144,0.07692307692307693,ZU
+minior-red-meteor,Shields Down,,,0,0,1,0,0,0,9.5,15.5,4,6000,6000,1.0,0.13636363636363635,ZU
+glastrier,Chilling Neigh,,,0,0,1,0,0,0,-2.5,5.0,4,13000,11000,2.230769230769231,0.11206896551724138,ZU
+venomoth,Tinted Lens,Shield Dust,Wonder Skin,0,1,1,1,0,0,9.5,7.5,3,4200,5250,0.7222222222222222,0.14444444444444443,ZU
+sneasel,Inner Focus,Pickpocket,,0,0,1,0,1,1,-4.0,18.0,2,3025,4125,2.7142857142857144,0.08139534883720931,ZU
+oricorio-baile,Dancer,,,0,1,1,1,1,0,16.0,14.0,3,5250,5250,0.7142857142857143,0.14705882352941177,ZU
+vikavolt,Levitate,,,1,1,1,0,0,0,12.0,16.5,4,6930,5775,0.4827586206896552,0.14,ZU
+eelektross,Levitate,,,0,1,0,0,1,0,13.0,0.0,4,6800,6800,1.0952380952380953,0.20388349514563106,ZU
+rotom,Levitate,,,0,1,1,0,1,0,22.0,15.0,3,3850,3850,0.5263157894736842,0.11363636363636363,ZU
+lurantis,Contrary,,,0,0,0,1,1,0,1.5,-4.0,4,6300,6300,1.3125,0.16666666666666666,ZU
+electivire,Motor Drive,Vital Spirit,,0,1,1,0,1,0,13.0,0.0,3,5025,6375,1.2947368421052632,0.17592592592592593,ZU
+dusclops,Pressure,Frisk,,0,0,0,0,1,0,18.0,5.0,4,5200,5200,1.1666666666666667,0.13186813186813187,ZU
+naclstack,Purifying Salt,,,1,0,1,1,0,0,1.5,7.5,4,6000,3900,1.7142857142857142,0.09859154929577464,ZU
+veluza,Sharpness,Mold Breaker,,0,1,0,1,0,1,6.5,16.5,3,6570,5850,1.3076923076923077,0.16317991631799164,ZU
+volbeat,Prankster,Swarm,,0,1,0,1,1,0,6.0,-4.0,3,4875,5525,1.553191489361702,0.10930232558139535,ZU
+cacturne,Water Absorb,,,1,0,1,1,1,1,0.0,16.5,4,4200,4200,1.0,0.24210526315789474,ZU
+morpeko-full-belly,Hunger Switch,,,0,1,0,0,1,0,13.0,15.0,3,3364,3364,1.3571428571428572,0.16055045871559634,ZU
+arboliva,Seed Sower,Harvest,,0,0,0,1,1,0,3.5,11.0,4,7020,8502,0.552,0.13529411764705881,ZU
+sableye,Prankster,,,0,0,1,1,1,0,24.5,9.5,4,3750,3250,1.1538461538461537,0.17105263157894737,ZU
+cryogonal,Levitate,,,0,0,0,1,1,0,-2.5,5.0,2,4000,10800,0.5263157894736842,0.0970873786407767,ZU
+trevenant,Harvest,Natural Cure,Frisk,0,0,0,1,0,1,12.5,16.5,4,6460,6970,1.6923076923076923,0.1371308016877637,ZU
+slaking,Truant,,,0,0,0,0,1,1,11.0,-0.5,3,15000,9750,1.6842105263157894,0.1417910447761194,ZU
+farigiraf,Sap Sipper,Armor Tail,Cud Chew,0,0,1,1,0,0,10.0,9.5,4,8400,8400,0.8181818181818182,0.17307692307692307,ZU
+muk,Poison Touch,Sticky Hold,,1,0,0,0,1,1,14.5,-2.5,4,7875,10500,1.6153846153846154,0.13,ZU
+weezing,Levitate,Neutralizing Gas,,1,0,0,0,1,0,14.5,-2.5,4,7800,4550,1.0588235294117647,0.17346938775510204,ZU
+haunter,Levitate,,,0,0,0,0,1,0,18.0,15.0,3,2025,2475,0.43478260869565216,0.12345679012345678,ZU
+shiftry,Wind Rider,Chlorophyll,Pickpocket,0,0,0,0,1,1,0.0,16.5,3,5400,5400,1.1111111111111112,0.1875,ZU
+exeggutor-alola,Frisk,Harvest,,0,0,0,0,0,0,-4.0,12.5,4,8075,7125,0.84,0.19811320754716982,ZU
+poliwrath,Water Absorb,Swift Swim,,0,0,1,0,1,0,9.0,19.5,3,8550,8100,1.3571428571428572,0.13725490196078433,ZU
+pincurchin,Electric Surge,Lightning Rod,,1,0,0,1,0,1,13.0,0.0,4,4560,4080,1.10989010989011,0.20919540229885059,ZU
+glimmet,Toxic Debris,,,1,0,0,0,1,0,6.0,13.0,4,2016,2880,0.3333333333333333,0.1,ZU
+klawf,Regenerator,Anger Shell,,1,0,1,0,1,0,1.5,7.5,3,8050,3850,2.857142857142857,0.07777777777777778,ZU
+charizard,Blaze,Solar Power,,0,0,0,0,0,0,16.0,14.0,3,6084,6630,0.7706422018348624,0.15730337078651685,ZU
+rampardos,Mold Breaker,Sheer Force,,0,0,0,0,0,0,1.5,7.5,4,5820,4850,2.5384615384615383,0.13131313131313133,ZU
+sudowoodo,Sturdy,Rattled,Rock Head,1,0,0,0,1,1,1.5,7.5,4,8050,4550,3.3333333333333335,0.07317073170731707,ZU
+toucannon,Skill Link,Sheer Force,Keen Eye,0,1,0,0,1,0,14.5,8.5,4,6000,6000,1.6,0.15463917525773196,ZU
+komala,Comatose,,,0,1,1,1,1,1,11.0,-0.5,3,4225,6175,1.5333333333333334,0.15625,ZU
+hitmonchan,Iron Fist,Inner Focus,Keen Eye,0,0,1,0,1,1,6.0,-0.5,3,3950,5500,3.0,0.07692307692307693,ZU
+sneasel-hisui,Inner Focus,Pickpocket,,1,0,1,0,1,0,9.5,14.5,2,3025,4125,2.7142857142857144,0.08139534883720931,ZU
+whiscash,Oblivious,Anticipation,,1,0,1,0,0,0,16.0,15.5,4,8030,7810,1.0263157894736843,0.1623931623931624,ZU
+beartic,Slush Rush,Swift Swim,,0,0,1,0,0,1,-2.5,5.0,4,7600,7600,1.8571428571428572,0.13861386138613863,ZU
+ursaring,Guts,Quick Feet,,0,0,1,0,0,0,11.0,-0.5,4,6750,6750,1.7333333333333334,0.15,ZU
+dodrio,Early Bird,Tangled Feet,,0,0,1,0,1,0,14.5,8.5,2,4200,3600,1.8333333333333333,0.1276595744680851,ZU
+raichu-alola,Surge Surfer,,,0,1,1,0,1,0,7.5,15.0,2,3000,5100,0.8947368421052632,0.17525773195876287,ZU
+ampharos,Static,,,0,1,1,0,0,0,13.0,0.0,4,7650,8100,0.6521739130434783,0.14705882352941177,ZU
+spiritomb,Infiltrator,Pressure,,0,0,1,0,1,0,24.5,9.5,4,5400,5400,1.0,0.18969072164948453,ZU
+lilligant,Chlorophyll,Own Tempo,,0,0,1,0,0,0,1.5,-4.0,3,5250,5250,0.5454545454545454,0.125,ZU
+spidops,Stakeout,Insomnia,,1,1,0,0,1,1,6.0,-4.0,4,5520,5160,1.5192307692307692,0.12871287128712872,ZU
+perrserker,Tough Claws,Steely Spirit,,1,1,0,0,1,0,29.0,3.5,4,7000,4200,2.2,0.11363636363636363,ZU
+masquerain,Intimidate,,,1,1,1,0,1,0,1.5,14.0,3,4340,5740,0.6,0.13215859030837004,ZU
+abomasnow,Snow Warning,,,0,0,0,1,0,1,-10.5,13.0,4,6750,7650,1.0,0.1862348178137652,ZU
+dusknoir,Pressure,Frisk,,0,0,0,0,1,1,18.0,5.0,4,6075,6075,1.5384615384615385,0.12380952380952381,ZU
+appletun,Thick Fat,Ripen,,0,0,0,1,0,0,-4.0,12.5,4,8800,8800,0.85,0.17525773195876287,ZU
+dipplin,Sticky Hold,Supersweet Syrup,,0,0,0,1,0,0,-4.0,12.5,4,8800,6400,0.8421052631578947,0.16494845360824742,ZU
+mabosstiff,Stakeout,Intimidate,Guard Dog,0,0,0,0,1,0,9.0,4.5,3,7200,5600,2.0,0.1188118811881188,ZU
+duosion,Regenerator,Magic Guard,Overcoat,0,0,1,1,1,0,3.5,2.5,4,3250,3900,0.32,0.10810810810810811,ZU
+dugtrio-alola,Tangling Hair,Sand Force,,1,0,1,0,0,1,27.0,19.5,2,2100,2450,2.0,0.11764705882352941,ZU
+glaceon,Ice Body,,,0,0,1,1,0,0,-2.5,5.0,3,7150,6175,0.46153846153846156,0.11428571428571428,ZU
+illumise,Prankster,Oblivious,,0,1,0,1,1,0,6.0,-4.0,3,4875,5525,0.6438356164383562,0.10930232558139535,ZU
+lycanroc-midnight,No Guard,Keen Eye,,0,0,1,0,1,0,1.5,7.5,3,6375,6375,2.090909090909091,0.11293634496919917,ZU
+ditto,Imposter,,,0,0,0,0,0,0,11.0,-0.5,4,2304,2304,1.0,0.16666666666666666,ZU
+zangoose,Toxic Boost,Immunity,,0,0,1,0,1,0,11.0,-0.5,3,4380,4380,1.9166666666666667,0.13100436681222707,ZU
+articuno,Pressure,,,0,1,0,1,1,1,0.5,15.5,3,9000,11250,0.8947368421052632,0.14655172413793102,ZU
+golem,Sturdy,Rock Head,,1,0,0,0,1,0,-3.0,21.0,4,10400,5200,2.1818181818181817,0.1111111111111111,ZU
+dunsparce,Serene Grace,,,1,0,0,1,1,0,11.0,-0.5,4,7000,6500,1.0769230769230769,0.1566265060240964,ZU
+wigglytuff,Competitive,Frisk,Cute Charm,1,0,1,1,1,0,18.0,11.0,4,6300,7000,0.8235294117647058,0.16091954022988506,ZU
+oricorio-pau,Dancer,,,0,1,1,1,1,0,5.5,12.5,3,5250,5250,0.7142857142857143,0.14705882352941177,ZU
+swalot,Sticky Hold,Liquid Ooze,,1,0,0,0,1,0,14.5,-2.5,4,8300,8300,1.0,0.15631691648822268,ZU
+persian,Technician,Limber,,0,1,0,0,1,0,11.0,-0.5,2,3900,4225,1.0769230769230769,0.14772727272727273,ZU
+dachsbun,Well-Baked Body,,,0,0,0,1,1,0,15.0,6.0,3,6555,4560,1.6,0.10482180293501048,ZU
+rotom-fan,Levitate,,,0,1,1,0,1,0,20.0,14.0,3,5350,5350,0.6190476190476191,0.125,ZU
+victreebel,Chlorophyll,Gluttony,,0,0,0,0,1,1,8.5,11.5,3,5200,5600,1.05,0.20408163265306123,ZU
+quaxwell,Moxie,Torrent,,0,1,0,1,1,0,12.0,6.0,3,4550,4200,1.3076923076923077,0.15853658536585366,ZU
+lapras,Water Absorb,Shell Armor,Hydration,0,0,0,0,0,1,1.0,15.5,4,10400,12350,1.0,0.1588785046728972,ZU
+vespiquen,Pressure,Unnerve,,1,1,0,1,1,0,1.5,14.0,4,7140,7140,1.0,0.16877637130801687,ZU
+wugtrio,Gooey,,,0,0,0,0,0,1,12.0,6.0,2,1750,2450,2.0,0.11764705882352941,ZU
+dugtrio,Sand Force,,,1,0,1,0,0,1,9.0,7.0,2,1750,2450,2.0,0.11764705882352941,ZU
+flapple,Hustle,Ripen,Gluttony,0,1,1,0,0,1,-4.0,12.5,3,5600,4200,1.1578947368421053,0.1958762886597938,ZU
+leafeon,Chlorophyll,Leaf Guard,,0,0,1,1,1,0,1.5,-4.0,3,8450,4225,1.8333333333333333,0.11428571428571428,ZU
+arbok,Intimidate,Shed Skin,,0,0,0,0,1,1,14.5,-2.5,3,4140,4740,1.4615384615384615,0.14508928571428573,ZU
+camerupt,Solid Rock,,,1,0,0,0,1,0,15.0,21.0,4,4900,5250,0.9523809523809523,0.21739130434782608,ZU
+torkoal,Shell Armor,White Smoke,,1,0,0,0,1,0,13.5,5.0,4,9800,4900,1.0,0.18085106382978725,ZU
+typhlosion,Flash Fire,Blaze,,0,0,0,0,0,0,13.5,5.0,3,6084,6630,0.7706422018348624,0.15730337078651685,ZU
+chimecho,Levitate,,,0,0,0,1,1,0,3.5,2.5,3,6000,6750,0.5263157894736842,0.10989010989010989,ZU
+luxray,Guts,Intimidate,,0,0,1,0,0,0,13.0,0.0,3,6320,6320,1.263157894736842,0.18164435946462715,ZU
+dragonair,Marvel Scale,Shed Skin,,0,0,1,0,1,1,8.5,3.5,3,3965,4270,1.2,0.16666666666666666,ZU
+eiscue-ice,Ice Face,,,0,1,0,0,0,0,-2.5,5.0,4,8250,6750,1.2307692307692308,0.13829787234042554,ZU
+piloswine,Thick Fat,Oblivious,,1,0,0,0,1,1,-0.5,22.5,4,8000,6000,1.6666666666666667,0.13333333333333333,ZU
+tentacool,Clear Body,Liquid Ooze,,1,1,0,0,1,0,18.5,16.5,3,1400,4000,0.8,0.11940298507462686,ZU
+bastiodon,Sturdy,Soundproof,,1,0,1,0,1,0,16.0,15.5,4,10080,8280,1.1063829787234043,0.09494949494949495,ZU
+combusken,Speed Boost,,,0,0,1,0,0,0,11.0,19.5,4,3600,3600,1.0,0.20987654320987653,ZU
+furret,Frisk,Keen Eye,,0,1,1,0,1,1,11.0,-0.5,3,5440,4675,1.6888888888888889,0.10843373493975904,ZU
+grookey,Grassy Surge,,,0,1,0,0,1,0,1.5,-4.0,3,2500,2000,1.625,0.12903225806451613,ZU
+regice,Ice Body,Clear Body,,0,0,0,0,1,0,-2.5,5.0,4,8000,16000,0.5,0.08620689655172414,ZU
+magmortar,Flame Body,Vital Spirit,,0,0,0,0,1,0,13.5,5.0,3,5025,7125,0.76,0.17592592592592593,ZU
+ludicolo,Swift Swim,Own Tempo,Rain Dish,0,0,1,0,0,0,7.0,10.0,3,5600,8000,0.7777777777777778,0.14583333333333334,ZU
+meowstic-male,Prankster,Competitive,Keen Eye,0,0,0,0,1,0,3.5,2.5,2,5624,5994,0.5783132530120482,0.10300429184549356,ZU
+leavanny,Chlorophyll,Swarm,Overcoat,1,0,1,0,1,0,-7.5,8.0,3,6000,6000,1.4714285714285715,0.14,ZU
+squawkabilly-green-plumage,Hustle,Guts,Intimidate,0,1,0,1,1,0,14.5,8.5,3,4182,4182,2.1333333333333333,0.1079136690647482,ZU
+houndoom,Flash Fire,Early Bird,,0,0,1,0,1,1,15.5,18.0,3,3750,6000,0.8181818181818182,0.18,ZU
+mightyena,Moxie,Intimidate,,0,0,0,0,0,1,9.0,4.5,3,4900,4200,1.5,0.14285714285714285,ZU
+swanna,Hydration,Keen Eye,Big Pecks,0,1,0,1,1,0,15.0,18.0,3,4725,4725,1.0,0.1839323467230444,ZU
+crabominable,Iron Fist,Hyper Cutter,,0,0,1,0,1,0,-4.5,22.5,4,7469,6499,2.129032258064516,0.1297071129707113,ZU
+granbull,Intimidate,Quick Feet,Rattled,0,0,1,0,1,0,15.0,6.0,4,6750,5400,2.0,0.13333333333333333,ZU
+golem-alola,Galvanize,Sturdy,Magnet Pull,1,0,0,0,0,0,3.5,14.0,4,10400,5200,2.1818181818181817,0.1111111111111111,ZU
+exeggutor,Harvest,Chlorophyll,,0,0,1,1,0,0,-5.5,14.0,4,8075,7125,0.76,0.1792452830188679,ZU
+sliggoo-hisui,Sap Sipper,Gooey,Shell Armor,0,0,0,0,0,0,31.0,12.5,4,4814,6554,0.9036144578313253,0.16592920353982302,ZU
+rabsca,Synchronize,,,0,0,1,1,0,0,-1.0,14.0,4,6375,7500,0.43478260869565216,0.10638297872340426,ZU
+gumshoos,Stakeout,Adaptability,,0,1,0,0,1,0,11.0,-0.5,4,5280,5280,2.0,0.13157894736842105,ZU
+samurott,Torrent,Shell Armor,,0,1,0,0,1,1,12.0,6.0,3,8075,6650,0.9259259259259259,0.1893939393939394,ZU
+flareon,Flash Fire,Guts,,0,0,0,1,0,0,13.5,5.0,3,3900,7150,1.368421052631579,0.18095238095238095,ZU
+noctowl,Tinted Lens,Insomnia,,0,0,0,1,1,0,14.5,8.5,3,5000,9600,0.5813953488372093,0.11061946902654868,ZU
+greedent,Cheek Pouch,,,0,0,1,0,1,0,11.0,-0.5,4,11400,9000,1.7272727272727273,0.11956521739130435,ZU
+banette,Frisk,Cursed Body,Insomnia,0,0,1,0,1,1,18.0,5.0,3,4160,4032,1.3855421686746987,0.1824175824175824,ZU
+raichu,Lightning Rod,,,0,1,1,0,1,0,13.0,0.0,2,3300,4800,1.0,0.18556701030927836,ZU
+hypno,Inner Focus,Insomnia,,0,0,1,0,1,0,3.5,2.5,3,5950,9775,1.0,0.15113871635610765,ZU
+pikachu,Lightning Rod,Static,,0,1,0,0,1,0,13.0,0.0,3,1400,1750,1.1,0.15625,ZU
+gogoat,Sap Sipper,Grass Pelt,,0,0,1,1,1,0,1.5,-4.0,3,7626,9963,1.0309278350515463,0.18267419962335216,ZU
+hippopotas,Sand Stream,,,1,0,0,1,1,0,9.0,7.0,4,5304,2856,1.894736842105263,0.11515151515151516,ZU
+rotom-frost,Levitate,,,0,1,1,0,1,0,2.5,16.5,3,5350,5350,0.6190476190476191,0.125,ZU
+zebstrika,Lightning Rod,Motor Drive,Sap Sipper,0,1,0,0,1,0,13.0,0.0,2,4725,4725,1.25,0.16096579476861167,ZU
+tropius,Harvest,Solar Power,Chlorophyll,0,0,1,1,0,0,0.5,15.5,4,8217,8613,0.9444444444444444,0.14782608695652175,ZU
+golduck,Cloud Nine,Swift Swim,Damp,0,1,1,0,0,0,12.0,6.0,3,6240,6400,0.8631578947368421,0.164,ZU
+regigigas,Slow Start,,,0,0,0,0,1,0,11.0,-0.5,3,12100,12100,2.0,0.11940298507462686,ZU
+ninetales,Flash Fire,,,0,0,1,0,1,0,13.5,5.0,3,5475,7300,0.9382716049382716,0.1504950495049505,ZU
+pyroar-male,Unnerve,Rivalry,Moxie,0,0,0,0,1,0,15.5,12.5,2,6192,5676,0.6238532110091743,0.1341222879684418,ZU
+sawsbuck,Chlorophyll,Serene Grace,Sap Sipper,0,0,1,0,0,0,3.5,11.0,3,5600,5600,1.6666666666666667,0.12631578947368421,ZU
+dewgong,Thick Fat,Hydration,,0,1,0,0,1,1,1.0,15.5,3,7200,8550,1.0,0.14736842105263157,ZU
+misdreavus,Levitate,,,0,0,1,0,1,0,18.0,5.0,3,3600,5100,0.7058823529411765,0.13793103448275862,ZU
+crocalor,Unaware,,,0,0,0,1,1,0,13.5,5.0,4,6318,4698,0.6111111111111112,0.13381995133819952,ZU
+shroodle,Unburden,,,0,0,1,0,1,0,17.5,4.5,3,1400,1400,1.625,0.13793103448275862,ZU
+magcargo,Flame Body,Weak Armor,,1,0,1,1,0,0,3.5,18.0,4,7200,4800,0.5555555555555556,0.11627906976744186,ZU
+ariados,Swarm,Insomnia,Sniper,1,0,0,0,1,1,9.5,7.5,4,4900,4900,1.5,0.15,ZU
+gothitelle,Competitive,,,0,0,1,0,0,0,3.5,2.5,3,6650,7700,0.5789473684210527,0.11224489795918367,ZU
+wartortle,Torrent,Rain Dish,,0,1,1,0,1,1,12.0,6.0,4,4720,4720,0.9692307692307692,0.15555555555555556,ZU
+grumpig,Thick Fat,Gluttony,,0,0,0,0,1,0,3.5,2.5,3,5200,8800,0.5,0.09574468085106383,ZU
+gabite,Rough Skin,,,1,0,1,0,0,0,6.5,18.0,3,4420,3740,1.8,0.12195121951219512,ZU
+delibird,Vital Spirit,,,1,0,0,0,1,0,0.5,15.5,3,2025,2025,0.8461538461538461,0.16666666666666666,ZU
+charjabug,Battery,,,1,1,0,0,1,0,12.0,16.5,4,5415,4275,1.490909090909091,0.1375,ZU
+dedenne,Cheek Pouch,Pickup,,0,1,0,0,0,0,20.0,16.5,2,3819,4489,0.7160493827160493,0.1345707656612529,ZU
+tauros-paldea-combat-breed,Intimidate,,,0,0,1,0,0,0,6.0,-0.5,3,7875,5250,3.6666666666666665,0.061224489795918366,ZU
+servine,Contrary,,,0,0,0,1,1,0,1.5,-4.0,3,4500,4500,1.0,0.14527845036319612,ZU
+falinks,Defiant,Battle Armor,,0,0,1,0,1,0,6.0,-0.5,3,6500,3900,1.4285714285714286,0.14893617021276595,ZU
+carkol,Flame Body,,,1,0,0,0,1,0,3.5,18.0,4,7200,5600,1.0,0.14634146341463414,ZU
+oranguru,Inner Focus,,,0,0,0,0,1,0,10.0,9.5,4,7200,9900,0.6666666666666666,0.12244897959183673,ZU
+brionne,Torrent,Liquid Voice,,0,1,0,0,1,1,12.0,6.0,4,4140,4860,0.7582417582417582,0.16428571428571428,ZU
+electrode,Aftermath,Soundproof,Static,0,1,0,0,1,0,13.0,0.0,1,4200,4800,0.625,0.10204081632653061,ZU
+clefairy,Magic Guard,,,1,0,1,1,1,0,15.0,6.0,4,3360,4550,0.75,0.1393188854489164,ZU
+nosepass,Sturdy,,,1,0,0,0,1,0,1.5,7.5,4,4050,2700,1.0,0.12,ZU
+ivysaur,Chlorophyll,,,0,0,0,0,1,0,8.5,11.5,4,3780,4800,0.775,0.15308641975308643,ZU
+wyrdeer,Intimidate,Sap Sipper,,0,0,1,0,1,0,10.0,9.5,3,7416,7725,1.0,0.2,ZU
+meganium,Overgrow,Leaf Guard,,0,0,0,1,1,0,1.5,-4.0,3,8000,8000,0.9879518072289156,0.15619047619047619,ZU
+mareanie,Regenerator,,,1,0,0,1,1,0,18.5,16.5,4,3100,2600,1.2325581395348837,0.14098360655737704,ZU
+seadra,Sniper,Poison Point,,0,1,1,0,0,0,12.0,6.0,3,5225,2475,0.6842105263157895,0.14772727272727273,ZU
+electabuzz,Static,,,0,1,1,0,1,0,13.0,0.0,2,3705,5525,0.8736842105263158,0.16938775510204082,ZU
+toxicroak,Dry Skin,Poison Touch,Anticipation,0,0,1,0,1,1,9.5,14.5,3,5395,5395,1.2325581395348837,0.17551020408163265,ZU

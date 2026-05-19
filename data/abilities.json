@@ -4092,6 +4092,22 @@
                     "url": "https://pokeapi.co/api/v2/pokemon/10167/"
                 },
                 "slot": 1
+            },
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "delphox-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10293/"
+                },
+                "slot": 1
+            },
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "chimecho-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10306/"
+                },
+                "slot": 1
             }
         ]
     },
@@ -5932,6 +5948,14 @@
                     "url": "https://pokeapi.co/api/v2/pokemon/10037/"
                 },
                 "slot": 1
+            },
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "meowstic-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10314/"
+                },
+                "slot": 1
             }
         ]
     },
@@ -5986,6 +6010,14 @@
                 "pokemon": {
                     "name": "mawile-mega",
                     "url": "https://pokeapi.co/api/v2/pokemon/10052/"
+                },
+                "slot": 1
+            },
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "starmie-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10280/"
                 },
                 "slot": 1
             }
@@ -13356,6 +13388,14 @@
                     "url": "https://pokeapi.co/api/v2/pokemon/10208/"
                 },
                 "slot": 1
+            },
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "crabominable-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10315/"
+                },
+                "slot": 1
             }
         ]
     },
@@ -13548,6 +13588,14 @@
                     "url": "https://pokeapi.co/api/v2/pokemon/10248/"
                 },
                 "slot": 2
+            },
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "glimmora-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10321/"
+                },
+                "slot": 1
             }
         ]
     },
@@ -14372,6 +14420,14 @@
                     "url": "https://pokeapi.co/api/v2/pokemon/10201/"
                 },
                 "slot": 2
+            },
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "hawlucha-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10300/"
+                },
+                "slot": 1
             }
         ]
     },
@@ -15130,6 +15186,14 @@
                 "pokemon": {
                     "name": "ogerpon-hearthflame-mask",
                     "url": "https://pokeapi.co/api/v2/pokemon/10274/"
+                },
+                "slot": 1
+            },
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "emboar-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10286/"
                 },
                 "slot": 1
             }
@@ -16324,6 +16388,14 @@
                     "url": "https://pokeapi.co/api/v2/pokemon/10104/"
                 },
                 "slot": 3
+            },
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "froslass-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10285/"
+                },
+                "slot": 1
             }
         ]
     },
@@ -18476,6 +18548,14 @@
                     "url": "https://pokeapi.co/api/v2/pokemon/249/"
                 },
                 "slot": 3
+            },
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "dragonite-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10281/"
+                },
+                "slot": 1
             }
         ]
     },
@@ -20076,6 +20156,14 @@
                     "url": "https://pokeapi.co/api/v2/pokemon/10025/"
                 },
                 "slot": 2
+            },
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "chandelure-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10291/"
+                },
+                "slot": 1
             }
         ]
     },
@@ -20588,6 +20676,14 @@
                     "url": "https://pokeapi.co/api/v2/pokemon/10221/"
                 },
                 "slot": 3
+            },
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "clefable-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10278/"
+                },
+                "slot": 1
             }
         ]
     },
@@ -21476,6 +21572,14 @@
                     "url": "https://pokeapi.co/api/v2/pokemon/908/"
                 },
                 "slot": 3
+            },
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "greninja-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10294/"
+                },
+                "slot": 1
             }
         ]
     },
@@ -21650,6 +21754,14 @@
                 "pokemon": {
                     "name": "kommo-o-totem",
                     "url": "https://pokeapi.co/api/v2/pokemon/10146/"
+                },
+                "slot": 1
+            },
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "chesnaught-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10292/"
                 },
                 "slot": 1
             }
@@ -22420,6 +22532,14 @@
                     "url": "https://pokeapi.co/api/v2/pokemon/716/"
                 },
                 "slot": 1
+            },
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "floette-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10296/"
+                },
+                "slot": 1
             }
         ]
     },
@@ -22876,6 +22996,14 @@
                     "url": "https://pokeapi.co/api/v2/pokemon/10171/"
                 },
                 "slot": 1
+            },
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "drampa-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10302/"
+                },
+                "slot": 1
             }
         ]
     },
@@ -23282,6 +23410,14 @@
                 "pokemon": {
                     "name": "pyukumuku",
                     "url": "https://pokeapi.co/api/v2/pokemon/771/"
+                },
+                "slot": 1
+            },
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "victreebel-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10279/"
                 },
                 "slot": 1
             }
@@ -24060,6 +24196,14 @@
                     "url": "https://pokeapi.co/api/v2/pokemon/10225/"
                 },
                 "slot": 3
+            },
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "skarmory-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10284/"
+                },
+                "slot": 1
             }
         ]
     },
@@ -24538,6 +24682,14 @@
                 "pokemon": {
                     "name": "urshifu-rapid-strike-gmax",
                     "url": "https://pokeapi.co/api/v2/pokemon/10227/"
+                },
+                "slot": 1
+            },
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "golurk-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10313/"
                 },
                 "slot": 1
             }
@@ -25673,6 +25825,70 @@
                 "pokemon": {
                     "name": "pecharunt",
                     "url": "https://pokeapi.co/api/v2/pokemon/1025/"
+                },
+                "slot": 1
+            }
+        ]
+    },
+    "piercing-drill": {
+        "generation": {
+            "name": "generation-ix",
+            "url": "https://pokeapi.co/api/v2/generation/9/"
+        },
+        "pokemon": [
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "excadrill-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10287/"
+                },
+                "slot": 1
+            }
+        ]
+    },
+    "dragonize": {
+        "generation": {
+            "name": "generation-ix",
+            "url": "https://pokeapi.co/api/v2/generation/9/"
+        },
+        "pokemon": [
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "feraligatr-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10283/"
+                },
+                "slot": 1
+            }
+        ]
+    },
+    "mega-sol": {
+        "generation": {
+            "name": "generation-ix",
+            "url": "https://pokeapi.co/api/v2/generation/9/"
+        },
+        "pokemon": [
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "meganium-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10282/"
+                },
+                "slot": 1
+            }
+        ]
+    },
+    "spicy-spray": {
+        "generation": {
+            "name": "generation-ix",
+            "url": "https://pokeapi.co/api/v2/generation/9/"
+        },
+        "pokemon": [
+            {
+                "is_hidden": false,
+                "pokemon": {
+                    "name": "scovillain-mega",
+                    "url": "https://pokeapi.co/api/v2/pokemon/10320/"
                 },
                 "slot": 1
             }

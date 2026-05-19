@@ -8705,6 +8705,22 @@
             {
                 "name": "poison-puppeteer",
                 "url": "https://pokeapi.co/api/v2/ability/307/"
+            },
+            {
+                "name": "piercing-drill",
+                "url": "https://pokeapi.co/api/v2/ability/308/"
+            },
+            {
+                "name": "dragonize",
+                "url": "https://pokeapi.co/api/v2/ability/309/"
+            },
+            {
+                "name": "mega-sol",
+                "url": "https://pokeapi.co/api/v2/ability/310/"
+            },
+            {
+                "name": "spicy-spray",
+                "url": "https://pokeapi.co/api/v2/ability/311/"
             }
         ],
         "moves": [
